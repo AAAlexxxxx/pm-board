@@ -70,11 +70,18 @@ jobs:
             for i in 1 2 3; do git pull --rebase && git push && break || sleep 5; done
           fi
 
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true      # first run: switch Pages on with source "GitHub Actions" (or do it in Settings -> Pages)
-      - uses: actions/upload-pages-artifact@v3
+      # Pages must be switched on once in Settings -> Pages -> Source: GitHub Actions. Until then the deploy steps
+      # are skipped and the data steps above still keep the books up to date (the run stays green).
+      - id: pages
+        uses: actions/configure-pages@v5
+        continue-on-error: true
+      - if: steps.pages.outcome == 'success'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: cloud/site
       - id: deploy
+        if: steps.pages.outcome == 'success'
         uses: actions/deploy-pages@v4
+      - if: steps.pages.outcome != 'success'
+        run: |
+          echo "::warning::GitHub Pages is not enabled yet. Settings -> Pages -> Source 'GitHub Actions', then re-run."
