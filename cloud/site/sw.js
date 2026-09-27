@@ -1,5 +1,5 @@
 /* PM Board service worker: app shell cache-first (versioned), data network-first with cache fallback. */
-const V = 'pmboard-v1';
+const V = 'pmboard-v2';
 const SHELL = ['./', './index.html', './app.js', './style.css', './manifest.webmanifest',
   './icons/icon-180.png', './icons/icon-192.png', './icons/icon-512.png'];
 

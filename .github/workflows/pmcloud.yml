@@ -3,7 +3,7 @@ name: pmcloud
 
 on:
   schedule:
-    - cron: "23 * * * *"      # hourly: marks, settlement, screener, alerts
+    - cron: "7,37 * * * *"    # every 30 min: marks, settlement, screener, alerts (GitHub may delay or drop slots)
     - cron: "5 10 * * *"      # daily 10:05 UTC: Claude's engine cycle (trades book B)
   workflow_dispatch:
     inputs:

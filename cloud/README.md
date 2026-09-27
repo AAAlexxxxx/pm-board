@@ -8,12 +8,12 @@ cloud/
   backend/pmcloud/   Python: снимок рынков, книги, движок, аномалии, публикация JSON
   state/             состояние в git: книги, калибровка, история NAV, журналы (коммитит бот)
   site/              статика PWA: index.html, app.js, style.css, sw.js, manifest, icons; data/ генерируется
-.github/workflows/pmcloud.yml   cron (каждый час refresh, 10:05 UTC cycle) + команды с телефона
+.github/workflows/pmcloud.yml   cron (каждые 30 мин refresh, 10:05 UTC cycle) + команды с телефона
 ```
 
 ## Запуск в GitHub (один раз)
 
-1. Создать репозиторий на GitHub (публичный: минуты Actions не ограничены; приватный: ~1440 мин/мес при hourly).
+1. Создать репозиторий на GitHub (публичный: минуты Actions не ограничены; приватный: лимит 2000 мин/мес, тогда cron раз в час).
 2. Запушить ветку с этой папкой как `main`:
    ```
    git checkout -b main

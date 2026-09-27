@@ -2,7 +2,7 @@
    Reads data/*.json published by GitHub Actions; sends commands back through repository_dispatch. */
 'use strict';
 
-const VERSION = '2026-09-27.1';
+const VERSION = '2026-09-27.2';
 const CAT_RU = { 'Mentions/Tweets': 'Твиты', Crypto: 'Крипта', Esports: 'Киберспорт', Sports: 'Спорт', Geopolitics: 'Геополитика',
   Elections: 'Выборы', 'US Politics': 'Политика США', 'Econ/Finance': 'Экономика', Culture: 'Культура',
   'Weather/Science': 'Погода/наука', Other: 'Другое' };
@@ -188,7 +188,7 @@ function renderMarkets() {
   </div>
   <div class="chips">${PRESETS.map(([k, l]) => `<button type="button" class="chip" data-preset="${k}" aria-pressed="${k === F.preset}">${l}</button>`).join('')}</div>
   <div class="chips">${cats.map((c) => `<button type="button" class="chip" data-cat="${esc(c)}" aria-pressed="${F.cats.includes(c)}">${CAT_RU[c] || esc(c)}</button>`).join('')}</div>
-  <div class="row"><span class="meta" id="mkcount">${nf0.format(list.length)} рынков</span><button type="button" class="linkbtn" data-action="toggle-filters">${F.filters ? 'Скрыть фильтры' : 'Фильтры'}</button></div>
+  <div class="row"><span class="meta" id="mkcount">${countText(list.length)}</span><button type="button" class="linkbtn" data-action="toggle-filters">${F.filters ? 'Скрыть фильтры' : 'Фильтры'}</button></div>
   ${F.filters ? renderFilters() : ''}
   <div id="mklist" style="display:grid;gap:12px">${listHTML(list)}</div>`;
 }
@@ -215,8 +215,9 @@ function renderList() {
   const list = filterMarkets();
   el.innerHTML = listHTML(list);
   const c = $('#mkcount');
-  if (c) c.textContent = `${nf0.format(list.length)} рынков`;
+  if (c) c.textContent = countText(list.length);
 }
+function countText(n) { return `${nf0.format(n)} из ${nf0.format(S.data.markets.rows.length)} · снимок ${fmt.dt(S.data.meta.snapshot)}`; }
 function marketCard(r) {
   const edge = r.ann != null
     ? `fair ${fmt.px(r.fv)} · <span class="${fmt.cls(r.edge)}">${fmt.cents(r.edge)}</span> · ${fmt.pct(r.ann, 0)} год.`
@@ -263,7 +264,7 @@ function tradeForm(r) {
     <div class="phead"><h2>Бумажная сделка · книга A</h2><span class="note">${ok ? 'через GitHub' : 'нужен токен (вкладка Ещё)'}</span></div>
     <div class="seg"><button type="button" class="buy" data-side="buy" aria-pressed="${r.yes}">Купить Yes ${fmt.px(r.a)}</button><button type="button" class="sell" data-side="sell" aria-pressed="${!r.yes}">Продать Yes ${fmt.px(r.b)}</button></div>
     <div class="grid2"><label class="field">Сумма, $<input type="number" inputmode="decimal" name="usd" value="100" min="1" step="10"></label><label class="field">Лимит Yes (необяз.)<input type="number" inputmode="decimal" name="limit" step="0.001" min="0.001" max="0.999" placeholder="авто ±2¢"></label></div>
-    <div class="btnrow"><button type="button" class="btn ghost" data-action="trade-dry" ${ok ? '' : 'disabled'}>Проверить</button><button type="button" class="btn" data-action="trade-go" ${ok ? '' : 'disabled'}>Отправить</button></div>
+    <div class="btnrow"><button type="button" class="btn ghost" data-action="trade-dry">Проверить</button><button type="button" class="btn" data-action="trade-go">Отправить</button></div>
     <div class="meta">Исполнится в облаке по живому стакану через 1–3 минуты; результат появится на вкладках Книга A и Ещё.</div>
   </div>`;
 }
@@ -350,7 +351,7 @@ function positionSheet(book, pid) {
     ${pmLink(p.s)}
     <div class="card form" data-close="${esc(pid)}" data-book="${book}">
       <div class="phead"><h2>Закрыть по рынку</h2><span class="note">${ok ? 'через GitHub' : 'нужен токен (вкладка Ещё)'}</span></div>
-      <div class="btnrow"><button type="button" class="btn ghost" data-action="close-dry" ${ok ? '' : 'disabled'}>Проверить</button><button type="button" class="btn danger" data-action="close-go" ${ok ? '' : 'disabled'}>Закрыть позицию</button></div>
+      <div class="btnrow"><button type="button" class="btn ghost" data-action="close-dry">Проверить</button><button type="button" class="btn danger" data-action="close-go">Закрыть позицию</button></div>
     </div>`);
 }
 
@@ -442,17 +443,18 @@ function renderMore() {
     <div class="grid2"><label class="field">Владелец<input name="owner" value="${esc(st.owner)}" autocapitalize="off" autocomplete="off"></label><label class="field">Репозиторий<input name="repo" value="${esc(st.repo)}" autocapitalize="off" autocomplete="off"></label></div>
     <label class="field">Токен GitHub<input name="token" type="password" value="${esc(st.token)}" autocomplete="off" placeholder="github_pat_…"></label>
     <div class="btnrow"><button type="button" class="btn ghost" data-action="save-settings">Сохранить</button><button type="button" class="btn ghost" data-action="clear-token">Удалить токен</button></div>
-    <div class="btnrow"><button type="button" class="btn" data-action="dispatch" data-type="refresh" ${st.token ? '' : 'disabled'}>Обновить сейчас</button><button type="button" class="btn ghost" data-action="dispatch" data-type="scan" ${st.token ? '' : 'disabled'}>Скан движка</button><button type="button" class="btn ghost" data-action="dispatch" data-type="cycle" ${st.token ? '' : 'disabled'}>Цикл Claude</button></div>
+    <div class="btnrow"><button type="button" class="btn" data-action="dispatch" data-type="refresh">Обновить сейчас</button><button type="button" class="btn ghost" data-action="dispatch" data-type="scan">Скан движка</button><button type="button" class="btn ghost" data-action="dispatch" data-type="cycle">Цикл Claude</button></div>
+    ${st.token ? '<div class="meta">Команда уходит в GitHub Actions; результат на сайте через 2–4 минуты.</div>' : '<div class="notice bad">Кнопки и сделки заработают после ввода токена выше и «Сохранить».</div>'}
   </div>
   <details><summary>На экран «Домой» iPhone</summary><div class="inner small">В Safari нажмите «Поделиться» → «На экран “Домой”». Приложение откроется без адресной строки, последние данные доступны офлайн. Токен вводится уже внутри установленного приложения: у него своё хранилище.</div></details>
-  <details><summary>Как это работает</summary><div class="inner small">GitHub Actions каждый час снимает все открытые рынки Polymarket, переоценивает и гасит позиции обеих книг, считает fair value по калибровке и аномалии; раз в день (10:05 UTC) запускает цикл движка Claude и публикует страницу на GitHub Pages. Деньги бумажные: на Polymarket ничего не отправляется.</div></details>
+  <details><summary>Как это работает</summary><div class="inner small">GitHub Actions каждые 30 минут снимает все открытые рынки Polymarket, переоценивает и гасит позиции обеих книг, считает fair value по калибровке и аномалии; раз в день (10:05 UTC) запускает цикл движка Claude и публикует страницу на GitHub Pages. Деньги бумажные: на Polymarket ничего не отправляется.</div></details>
   ${rulesBlock()}`;
 }
 
 /* ---------- cloud commands ---------- */
 async function dispatch(type, payload, label) {
   const st = settings();
-  if (!st.token || !st.owner || !st.repo) { toast('Укажите репозиторий и токен GitHub на вкладке «Ещё»'); return false; }
+  if (!st.token || !st.owner || !st.repo) { toast('Нужен токен GitHub: вкладка Ещё → «Команды в облако» → вставить токен → Сохранить', 6000); return false; }
   try {
     const r = await fetch(`https://api.github.com/repos/${encodeURIComponent(st.owner)}/${encodeURIComponent(st.repo)}/dispatches`, {
       method: 'POST',
@@ -488,6 +490,16 @@ function poll() {
       }
     } catch (e) { /* keep polling */ }
   }, 20000);
+}
+
+async function reloadWithFeedback() {
+  const before = S.data && S.data.meta.generated;
+  await loadAll();
+  if (!S.data) return;
+  const g = S.data.meta.generated;
+  toast(g === before
+    ? `Новых данных на сайте нет: снимок ${fmt.dt(S.data.meta.snapshot)} (${fmt.ago(g)}). Облако обновляет его каждые 30 мин; запустить сейчас: Ещё → «Обновить сейчас»`
+    : `Загружен снимок ${fmt.dt(S.data.meta.snapshot)}`, 7000);
 }
 
 /* ---------- sheet & events ---------- */
@@ -530,7 +542,7 @@ async function onAction(a, t) {
 }
 
 function bind() {
-  $('#reload').addEventListener('click', () => loadAll());
+  $('#reload').addEventListener('click', reloadWithFeedback);
   $$('.tabs button').forEach((b) => b.addEventListener('click', () => {
     S.scroll[S.tab] = window.scrollY;
     S.tab = b.dataset.tab; LS.set('tab', S.tab);
@@ -574,7 +586,11 @@ function init() {
   if (want && ['mk', 'sg', 'a', 'b', 'more'].includes(want)) S.tab = want;
   S.deep = qs.get('c');
   bind();
-  if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => {});
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+    let reloaded = false;   // a new service worker took over: load the new shell once
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (!reloaded) { reloaded = true; location.reload(); } });
+  }
   render();
   loadAll();
 }

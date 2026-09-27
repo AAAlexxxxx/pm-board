@@ -28,7 +28,7 @@ Gamma / CLOB ──►│ python -m pmcloud refresh|cycle|trade                 
 |---|---|---|
 | Состояние | `cloud/state/` в git | `book.json` (ручная книга A), `book_claude.json` (движок, книга B), `calibration.json`, `nav_history.jsonl`, `claude_log.jsonl`, `claude_shadow.jsonl`, `alerts.jsonl`, `prev_mids.json`, `mid_days.json`, `last_action.json` |
 | Бэкенд | `cloud/backend/pmcloud/` | Python 3.12, только `requests`/`pandas`/`numpy`; порт `pmtrader.markets/trade` и `engine/live_bot.py` без локальных путей |
-| Планировщик | `.github/workflows/pmcloud.yml` | cron: каждый час `refresh`, раз в день `cycle` (10:05 UTC, как локальный `claude_cycle.cmd`); `repository_dispatch` с телефона: `refresh`, `cycle`, `scan`, `trade` |
+| Планировщик | `.github/workflows/pmcloud.yml` | cron: каждые 30 минут `refresh`, раз в день `cycle` (10:05 UTC, как локальный `claude_cycle.cmd`); `repository_dispatch` с телефона: `refresh`, `cycle`, `scan`, `trade` |
 | Фронтенд | `cloud/site/` | один `index.html` + `app.js` + `style.css`, без сборки; `manifest.webmanifest`, `sw.js`, иконки; данные из `data/*.json` |
 
 Почему так: публичные API Polymarket не требуют ключей, вся «торговля» бумажная, состояние маленькое (десятки КБ) —
