@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PM Board</title>
+<meta name="description" content="Polymarket: поиск рынков и бумажные книги A и Claude">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="PM Board">
+<meta name="theme-color" content="#f6f7f6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1112" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">PM Board <span class="paper">paper</span></div>
+  <div class="stamp" id="stamp">загрузка…</div>
+  <button type="button" class="iconbtn" id="reload" aria-label="Перезагрузить данные">↻</button>
+</header>
+
+<main id="view" class="view" aria-live="polite"></main>
+
+<nav class="tabs" role="tablist" aria-label="Разделы">
+  <button type="button" role="tab" data-tab="mk" aria-selected="true"><span class="ic">◫</span>Рынки</button>
+  <button type="button" role="tab" data-tab="sg" aria-selected="false"><span class="ic">◉</span>Сигналы</button>
+  <button type="button" role="tab" data-tab="a" aria-selected="false"><span class="ic">A</span>Книга A</button>
+  <button type="button" role="tab" data-tab="b" aria-selected="false"><span class="ic">C</span>Claude</button>
+  <button type="button" role="tab" data-tab="more" aria-selected="false"><span class="ic">⋯</span>Ещё</button>
+</nav>
+
+<div class="sheet-back" id="sheet-back" hidden></div>
+<section class="sheet" id="sheet" role="dialog" aria-modal="true" hidden>
+  <div class="grab" aria-hidden="true"></div>
+  <div class="sheet-body" id="sheet-body"></div>
+</section>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
