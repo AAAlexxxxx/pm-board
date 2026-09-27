@@ -20,9 +20,9 @@
    "opened": "2026-09-25T14:09:15Z",
    "end": "2026-09-27T00:00:00Z",
    "best_at_open": 0.977,
-   "last_value": 1010.874,
-   "last_mark_ts": "2026-09-27T11:11:43Z",
-   "last_bid": 0.992
+   "last_value": 1018.0072,
+   "last_mark_ts": "2026-09-27T15:42:07Z",
+   "last_bid": 0.999
   },
   {
    "pid": "00eed8d0",
@@ -42,9 +42,9 @@
    "opened": "2026-09-25T14:09:32Z",
    "end": "2026-09-30T23:59:00Z",
    "best_at_open": 0.88,
-   "last_value": 1011.3636,
-   "last_mark_ts": "2026-09-27T11:11:43Z",
-   "last_bid": 0.89
+   "last_value": 1068.1818,
+   "last_mark_ts": "2026-09-27T15:42:08Z",
+   "last_bid": 0.94
   },
   {
    "pid": "ad2297c4",
@@ -64,9 +64,9 @@
    "opened": "2026-09-25T14:10:21Z",
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.959,
-   "last_value": 1010.7716,
-   "last_mark_ts": "2026-09-27T11:11:43Z",
-   "last_bid": 0.971
+   "last_value": 1008.6897,
+   "last_mark_ts": "2026-09-27T15:42:08Z",
+   "last_bid": 0.969
   },
   {
    "pid": "163cc8a3",
@@ -87,7 +87,7 @@
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.979,
    "last_value": 986.2032,
-   "last_mark_ts": "2026-09-27T11:11:43Z",
+   "last_mark_ts": "2026-09-27T15:42:08Z",
    "last_bid": 0.97
   },
   {
@@ -108,9 +108,9 @@
    "opened": "2026-09-25T14:12:14Z",
    "end": "2026-10-04T00:00:00Z",
    "best_at_open": 0.752,
-   "last_value": 978.869,
-   "last_mark_ts": "2026-09-27T11:11:43Z",
-   "last_bid": 0.746
+   "last_value": 970.9961,
+   "last_mark_ts": "2026-09-27T15:42:08Z",
+   "last_bid": 0.74
   },
   {
    "pid": "c1903ceb",
@@ -130,9 +130,9 @@
    "opened": "2026-09-25T14:15:06Z",
    "end": "2026-09-28T03:59:00Z",
    "best_at_open": 0.79,
-   "last_value": 833.5718,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
-   "last_bid": 0.67
+   "last_value": 920.6614,
+   "last_mark_ts": "2026-09-27T15:42:08Z",
+   "last_bid": 0.74
   },
   {
    "pid": "f9adf0b8",
@@ -152,9 +152,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 985.9155,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
-   "last_bid": 0.7
+   "last_value": 1000.0,
+   "last_mark_ts": "2026-09-27T15:42:08Z",
+   "last_bid": 0.71
   },
   {
    "pid": "c4f88a7d",
@@ -175,7 +175,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
    "last_value": 1000.0,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
+   "last_mark_ts": "2026-09-27T15:42:09Z",
    "last_bid": 0.84
   },
   {
@@ -197,7 +197,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
    "last_value": 980.6947,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
+   "last_mark_ts": "2026-09-27T15:42:09Z",
    "last_bid": 0.82
   },
   {
@@ -245,9 +245,9 @@
     }
    ],
    "last_add": "2026-09-25T14:38:25Z",
-   "last_value": 938.3931,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
-   "last_bid": 0.69
+   "last_value": 924.7932,
+   "last_mark_ts": "2026-09-27T15:42:09Z",
+   "last_bid": 0.68
   }
  ],
  "closed": [],

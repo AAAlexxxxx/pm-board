@@ -22,9 +22,9 @@
    "best_at_open": 0.952,
    "cat": "Geopolitics",
    "fair_at_entry": 0.9752,
-   "last_value": 512.4513,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
-   "last_bid": 0.976
+   "last_value": 512.9764,
+   "last_mark_ts": "2026-09-27T15:42:09Z",
+   "last_bid": 0.977
   },
   {
    "pid": "db34ada6",
@@ -47,9 +47,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.8881,
    "tier": "explore",
-   "last_value": 98.8236,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
-   "last_bid": 0.84
+   "last_value": 97.6471,
+   "last_mark_ts": "2026-09-27T15:42:09Z",
+   "last_bid": 0.83
   },
   {
    "pid": "f1d0649f",
@@ -73,7 +73,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-27T11:11:44Z",
+   "last_mark_ts": "2026-09-27T15:42:10Z",
    "last_bid": 0.92
   },
   {
@@ -98,7 +98,7 @@
    "fair_at_entry": 0.9809,
    "tier": "explore",
    "last_value": 99.7158,
-   "last_mark_ts": "2026-09-27T11:11:45Z",
+   "last_mark_ts": "2026-09-27T15:42:10Z",
    "last_bid": 0.954
   },
   {
@@ -123,7 +123,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 97.4363,
-   "last_mark_ts": "2026-09-27T11:11:45Z",
+   "last_mark_ts": "2026-09-27T15:42:10Z",
    "last_bid": 0.9
   },
   {
@@ -147,9 +147,9 @@
    "cat": "US Politics",
    "fair_at_entry": 0.9863,
    "tier": "explore",
-   "last_value": 99.6867,
-   "last_mark_ts": "2026-09-27T11:11:45Z",
-   "last_bid": 0.971
+   "last_value": 99.4814,
+   "last_mark_ts": "2026-09-27T15:42:10Z",
+   "last_bid": 0.969
   },
   {
    "pid": "15b2b13a",
@@ -172,9 +172,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 98.8913,
-   "last_mark_ts": "2026-09-27T11:11:45Z",
-   "last_bid": 0.81
+   "last_value": 98.1588,
+   "last_mark_ts": "2026-09-27T15:42:10Z",
+   "last_bid": 0.804
   },
   {
    "pid": "6bf91f47",
@@ -197,9 +197,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 98.9864,
-   "last_mark_ts": "2026-09-27T11:11:45Z",
-   "last_bid": 0.909
+   "last_value": 99.2042,
+   "last_mark_ts": "2026-09-27T15:42:10Z",
+   "last_bid": 0.911
   }
  ],
  "closed": [],
