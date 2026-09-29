@@ -1,29 +1,7 @@
 {
  "start_cash": 10000.0,
- "cash": 1.4296,
+ "cash": 2264.5928,
  "open": [
-  {
-   "pid": "e582a55d",
-   "c": "0xb8d9de792eaa47a1a7cd48e1eaf4feb9605b3bbadfef751db98b85e96b334a17",
-   "mid": "2915397",
-   "q": "Will the Safeguarding Swiss neutrality (neutrality initiative) initiative be approved in Switzerland’s September 27, 2026 popular vote?",
-   "e": "Switzerland’s September Referendum: What will pass?",
-   "s": "switzerlands-september-referendum-what-will-pass-20260713144919276",
-   "side": "sell",
-   "token": "56118105236172043090174340337773721848441399094328021921975235250932969012349",
-   "outcome": "No",
-   "qty": 1019.0262,
-   "px": 0.01943,
-   "tpx": 0.98057,
-   "fee": 0.7767,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:09:15Z",
-   "end": "2026-09-27T00:00:00Z",
-   "best_at_open": 0.977,
-   "last_value": 1018.0072,
-   "last_mark_ts": "2026-09-27T18:54:55Z",
-   "last_bid": 0.999
-  },
   {
    "pid": "00eed8d0",
    "c": "0x690fafd3b7bb8b4919ccf0f219b0014b65334411a1076162e76353e76d7f9bec",
@@ -42,9 +20,9 @@
    "opened": "2026-09-25T14:09:32Z",
    "end": "2026-09-30T23:59:00Z",
    "best_at_open": 0.88,
-   "last_value": 1045.4545,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.92
+   "last_value": 1100.0,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.968
   },
   {
    "pid": "ad2297c4",
@@ -64,9 +42,9 @@
    "opened": "2026-09-25T14:10:21Z",
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.959,
-   "last_value": 1008.6897,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.969
+   "last_value": 1024.304,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.984
   },
   {
    "pid": "163cc8a3",
@@ -86,9 +64,9 @@
    "opened": "2026-09-25T14:10:33Z",
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.979,
-   "last_value": 981.1196,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.965
+   "last_value": 997.3869,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.981
   },
   {
    "pid": "d511bb72",
@@ -108,31 +86,9 @@
    "opened": "2026-09-25T14:12:14Z",
    "end": "2026-10-04T00:00:00Z",
    "best_at_open": 0.752,
-   "last_value": 972.3083,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.741
-  },
-  {
-   "pid": "c1903ceb",
-   "c": "0xf828d652fd9d3512e92d00b2a563ba77f1a67ee177d2e95af34a811ae2d11841",
-   "mid": "4710033",
-   "q": "Will “Hate That I Made You Love Me” by Ariana Grande win Video of the Year at the 2026 MTV Video Music Awards?",
-   "e": "VMA Video of the Year 2026",
-   "s": "vma-voty-2026",
-   "side": "sell",
-   "token": "46177439689677189592566745285647737750401264395136171138621281704763466002781",
-   "outcome": "No",
-   "qty": 1244.137,
-   "px": 0.20436,
-   "tpx": 0.79564,
-   "fee": 10.1131,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:15:06Z",
-   "end": "2026-09-28T03:59:00Z",
-   "best_at_open": 0.79,
-   "last_value": 957.9855,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.77
+   "last_value": 997.2392,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.76
   },
   {
    "pid": "f9adf0b8",
@@ -152,9 +108,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 1000.0,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.71
+   "last_value": 985.9155,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.7
   },
   {
    "pid": "c4f88a7d",
@@ -174,9 +130,9 @@
    "opened": "2026-09-25T14:21:52Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
-   "last_value": 1000.0,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.84
+   "last_value": 1011.9048,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.85
   },
   {
    "pid": "cd8cda0e",
@@ -197,7 +153,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
    "last_value": 980.6947,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
+   "last_mark_ts": "2026-09-29T06:05:03Z",
    "last_bid": 0.82
   },
   {
@@ -245,12 +201,63 @@
     }
    ],
    "last_add": "2026-09-25T14:38:25Z",
-   "last_value": 924.7932,
-   "last_mark_ts": "2026-09-27T18:54:56Z",
-   "last_bid": 0.68
+   "last_value": 979.1928,
+   "last_mark_ts": "2026-09-29T06:05:03Z",
+   "last_bid": 0.72
   }
  ],
- "closed": [],
+ "closed": [
+  {
+   "pid": "e582a55d",
+   "c": "0xb8d9de792eaa47a1a7cd48e1eaf4feb9605b3bbadfef751db98b85e96b334a17",
+   "mid": "2915397",
+   "q": "Will the Safeguarding Swiss neutrality (neutrality initiative) initiative be approved in Switzerland’s September 27, 2026 popular vote?",
+   "e": "Switzerland’s September Referendum: What will pass?",
+   "s": "switzerlands-september-referendum-what-will-pass-20260713144919276",
+   "side": "sell",
+   "token": "56118105236172043090174340337773721848441399094328021921975235250932969012349",
+   "outcome": "No",
+   "qty": 1019.0262,
+   "px": 0.01943,
+   "tpx": 0.98057,
+   "fee": 0.7767,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:09:15Z",
+   "end": "2026-09-27T00:00:00Z",
+   "best_at_open": 0.977,
+   "last_bid": 0.999,
+   "exit_px": 0.0,
+   "proceeds": 1019.0262,
+   "closed": "2026-09-29T06:05:02Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 19.0262
+  },
+  {
+   "pid": "c1903ceb",
+   "c": "0xf828d652fd9d3512e92d00b2a563ba77f1a67ee177d2e95af34a811ae2d11841",
+   "mid": "4710033",
+   "q": "Will “Hate That I Made You Love Me” by Ariana Grande win Video of the Year at the 2026 MTV Video Music Awards?",
+   "e": "VMA Video of the Year 2026",
+   "s": "vma-voty-2026",
+   "side": "sell",
+   "token": "46177439689677189592566745285647737750401264395136171138621281704763466002781",
+   "outcome": "No",
+   "qty": 1244.137,
+   "px": 0.20436,
+   "tpx": 0.79564,
+   "fee": 10.1131,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:15:06Z",
+   "end": "2026-09-28T03:59:00Z",
+   "best_at_open": 0.79,
+   "last_bid": 0.77,
+   "exit_px": 0.0,
+   "proceeds": 1244.137,
+   "closed": "2026-09-29T06:05:02Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 244.137
+  }
+ ],
  "trades": [
   {
    "ts": "2026-09-25T14:09:15Z",
@@ -383,6 +390,30 @@
    "fee": 4.5259,
    "cost": 332.8568,
    "pid": "0e237c1e"
+  },
+  {
+   "ts": "2026-09-29T06:05:02Z",
+   "action": "close",
+   "pid": "e582a55d",
+   "q": "Will the Safeguarding Swiss neutrality (neutrality initiative) initiative be approved in Switzerland’s September 27, 2026 popular vote?",
+   "side": "sell",
+   "qty": 1019.0262,
+   "exit_px": 0.0,
+   "proceeds": 1019.0262,
+   "pnl": 19.0262,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-09-29T06:05:02Z",
+   "action": "close",
+   "pid": "c1903ceb",
+   "q": "Will “Hate That I Made You Love Me” by Ariana Grande win Video of the Year at the 2026 MTV Video Music Awards?",
+   "side": "sell",
+   "qty": 1244.137,
+   "exit_px": 0.0,
+   "proceeds": 1244.137,
+   "pnl": 244.137,
+   "reason": "погашение: выигрыш"
   }
  ]
 }

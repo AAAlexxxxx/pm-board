@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 8800.0,
+ "cash": 8917.6471,
  "open": [
   {
    "pid": "dbd2d0db",
@@ -22,34 +22,9 @@
    "best_at_open": 0.952,
    "cat": "Geopolitics",
    "fair_at_entry": 0.9752,
-   "last_value": 510.3511,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.972
-  },
-  {
-   "pid": "db34ada6",
-   "c": "0xed537832cbf6774d5b54da06732b53ce6866d82941e593ca71292f8e247babc5",
-   "mid": "3664783",
-   "q": "Chiefs vs. Dolphins",
-   "e": "Chiefs vs. Dolphins",
-   "s": "nfl-kc-mia-2026-09-27",
-   "side": "buy",
-   "token": "103595259305295486168019441815330062833506026715772035223814314462488631344129",
-   "outcome": "Chiefs",
-   "qty": 117.6471,
-   "px": 0.85,
-   "tpx": 0.85,
-   "fee": 0.0,
-   "cost": 100.0,
-   "opened": "2026-09-25T15:38:23Z",
-   "end": "2026-09-27T17:00:00Z",
-   "best_at_open": 0.85,
-   "cat": "Sports",
-   "fair_at_entry": 0.8881,
-   "tier": "explore",
-   "last_value": 100.0,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.85
+   "last_value": 515.0766,
+   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_bid": 0.981
   },
   {
    "pid": "f1d0649f",
@@ -73,7 +48,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
+   "last_mark_ts": "2026-09-29T06:05:04Z",
    "last_bid": 0.92
   },
   {
@@ -97,9 +72,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 99.7158,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.954
+   "last_value": 99.4022,
+   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_bid": 0.951
   },
   {
    "pid": "5e4d97e7",
@@ -123,7 +98,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 97.4363,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
+   "last_mark_ts": "2026-09-29T06:05:04Z",
    "last_bid": 0.9
   },
   {
@@ -147,9 +122,9 @@
    "cat": "US Politics",
    "fair_at_entry": 0.9863,
    "tier": "explore",
-   "last_value": 99.4814,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.969
+   "last_value": 101.0214,
+   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_bid": 0.984
   },
   {
    "pid": "15b2b13a",
@@ -172,9 +147,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 98.1588,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.804
+   "last_value": 99.3796,
+   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_bid": 0.814
   },
   {
    "pid": "6bf91f47",
@@ -197,12 +172,41 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 99.2042,
-   "last_mark_ts": "2026-09-27T18:54:57Z",
-   "last_bid": 0.911
+   "last_value": 98.9864,
+   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_bid": 0.909
   }
  ],
- "closed": [],
+ "closed": [
+  {
+   "pid": "db34ada6",
+   "c": "0xed537832cbf6774d5b54da06732b53ce6866d82941e593ca71292f8e247babc5",
+   "mid": "3664783",
+   "q": "Chiefs vs. Dolphins",
+   "e": "Chiefs vs. Dolphins",
+   "s": "nfl-kc-mia-2026-09-27",
+   "side": "buy",
+   "token": "103595259305295486168019441815330062833506026715772035223814314462488631344129",
+   "outcome": "Chiefs",
+   "qty": 117.6471,
+   "px": 0.85,
+   "tpx": 0.85,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-09-25T15:38:23Z",
+   "end": "2026-09-27T17:00:00Z",
+   "best_at_open": 0.85,
+   "cat": "Sports",
+   "fair_at_entry": 0.8881,
+   "tier": "explore",
+   "last_bid": 0.85,
+   "exit_px": 1.0,
+   "proceeds": 117.6471,
+   "closed": "2026-09-29T06:05:04Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 17.6471
+  }
+ ],
  "trades": [
   {
    "ts": "2026-09-25T15:25:57Z",
@@ -291,6 +295,18 @@
    "fee": 0.2514,
    "cost": 100.0,
    "pid": "6bf91f47"
+  },
+  {
+   "ts": "2026-09-29T06:05:04Z",
+   "action": "close",
+   "pid": "db34ada6",
+   "q": "Chiefs vs. Dolphins",
+   "side": "buy",
+   "qty": 117.6471,
+   "exit_px": 1.0,
+   "proceeds": 117.6471,
+   "pnl": 17.6471,
+   "reason": "погашение: выигрыш"
   }
  ]
 }
