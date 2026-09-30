@@ -22,9 +22,9 @@
    "best_at_open": 0.952,
    "cat": "Geopolitics",
    "fair_at_entry": 0.9752,
-   "last_value": 522.4273,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
-   "last_bid": 0.995
+   "last_value": 519.8021,
+   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_bid": 0.99
   },
   {
    "pid": "f1d0649f",
@@ -48,7 +48,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
+   "last_mark_ts": "2026-09-30T19:35:50Z",
    "last_bid": 0.92
   },
   {
@@ -73,7 +73,7 @@
    "fair_at_entry": 0.9809,
    "tier": "explore",
    "last_value": 99.9248,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
+   "last_mark_ts": "2026-09-30T19:35:50Z",
    "last_bid": 0.956
   },
   {
@@ -98,7 +98,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 87.6927,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
+   "last_mark_ts": "2026-09-30T19:35:50Z",
    "last_bid": 0.81
   },
   {
@@ -123,7 +123,7 @@
    "fair_at_entry": 0.9863,
    "tier": "explore",
    "last_value": 101.8427,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
+   "last_mark_ts": "2026-09-30T19:35:50Z",
    "last_bid": 0.992
   },
   {
@@ -147,9 +147,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 97.5483,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
-   "last_bid": 0.799
+   "last_value": 96.9379,
+   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_bid": 0.794
   },
   {
    "pid": "6bf91f47",
@@ -173,7 +173,7 @@
    "fair_at_entry": 0.9545,
    "tier": "explore",
    "last_value": 99.2042,
-   "last_mark_ts": "2026-09-30T16:23:30Z",
+   "last_mark_ts": "2026-09-30T19:35:51Z",
    "last_bid": 0.911
   },
   {
@@ -197,9 +197,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9435,
    "tier": "core",
-   "last_bid": 0.89,
-   "last_value": 208.972,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_bid": 0.908,
+   "last_value": 213.1984,
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   },
   {
    "pid": "7d4c2ab7",
@@ -224,7 +224,7 @@
    "tier": "core",
    "last_bid": 0.92,
    "last_value": 494.4757,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   },
   {
    "pid": "46374d27",
@@ -249,7 +249,7 @@
    "tier": "core",
    "last_bid": 0.91,
    "last_value": 494.2201,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   },
   {
    "pid": "321f95bf",
@@ -272,9 +272,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9833,
    "tier": "explore",
-   "last_bid": 0.962,
-   "last_value": 99.0267,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_bid": 0.965,
+   "last_value": 99.3356,
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   },
   {
    "pid": "e5abaca9",
@@ -297,9 +297,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.87,
-   "last_value": 98.509,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_bid": 0.86,
+   "last_value": 97.3767,
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   },
   {
    "pid": "7f943e29",
@@ -322,9 +322,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.87,
-   "last_value": 97.4189,
-   "last_mark_ts": "2026-09-30T16:23:31Z"
+   "last_bid": 0.88,
+   "last_value": 98.5387,
+   "last_mark_ts": "2026-09-30T19:35:51Z"
   }
  ],
  "closed": [
