@@ -22,9 +22,9 @@
    "best_at_open": 0.952,
    "cat": "Geopolitics",
    "fair_at_entry": 0.9752,
-   "last_value": 515.0766,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.981
+   "last_value": 519.277,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.989
   },
   {
    "pid": "f1d0649f",
@@ -48,7 +48,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
+   "last_mark_ts": "2026-09-30T14:10:20Z",
    "last_bid": 0.92
   },
   {
@@ -72,9 +72,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 99.4022,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.951
+   "last_value": 99.9248,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.956
   },
   {
    "pid": "5e4d97e7",
@@ -97,9 +97,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9553,
    "tier": "explore",
-   "last_value": 97.4363,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.9
+   "last_value": 86.6101,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.8
   },
   {
    "pid": "6bea2364",
@@ -122,9 +122,9 @@
    "cat": "US Politics",
    "fair_at_entry": 0.9863,
    "tier": "explore",
-   "last_value": 101.0214,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.984
+   "last_value": 102.048,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.994
   },
   {
    "pid": "15b2b13a",
@@ -147,9 +147,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 99.3796,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.814
+   "last_value": 97.4262,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.798
   },
   {
    "pid": "6bf91f47",
@@ -172,9 +172,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 98.9864,
-   "last_mark_ts": "2026-09-29T06:05:04Z",
-   "last_bid": 0.909
+   "last_value": 99.2042,
+   "last_mark_ts": "2026-09-30T14:10:20Z",
+   "last_bid": 0.911
   }
  ],
  "closed": [
