@@ -1,31 +1,7 @@
 {
  "start_cash": 10000.0,
- "cash": 7400.3486,
+ "cash": 7925.4012,
  "open": [
-  {
-   "pid": "dbd2d0db",
-   "c": "0x524ce344b80a160c237d91a33efdd8b82468b0dc0d33f60d500f8bf69b80b8bb",
-   "mid": "3399458",
-   "q": "Israel x Iran ceasefire continues through September 30?",
-   "e": "Israel x Iran ceasefire continues through...?",
-   "s": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
-   "side": "buy",
-   "token": "110124369154659006328320349797831539154282530245624469518430389053088403535939",
-   "outcome": "Yes",
-   "qty": 525.0526,
-   "px": 0.95229,
-   "tpx": 0.95229,
-   "fee": 0.0,
-   "cost": 500.0,
-   "opened": "2026-09-25T15:25:57Z",
-   "end": "2026-09-30T20:29:00Z",
-   "best_at_open": 0.952,
-   "cat": "Geopolitics",
-   "fair_at_entry": 0.9752,
-   "last_value": 519.8021,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
-   "last_bid": 0.99
-  },
   {
    "pid": "f1d0649f",
    "c": "0xc5eae79d1ffe716572353962eb926b1e3964c500a4880a7a94f58408218ee76b",
@@ -48,7 +24,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_mark_ts": "2026-09-30T23:11:27Z",
    "last_bid": 0.92
   },
   {
@@ -73,7 +49,7 @@
    "fair_at_entry": 0.9809,
    "tier": "explore",
    "last_value": 99.9248,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_mark_ts": "2026-09-30T23:11:27Z",
    "last_bid": 0.956
   },
   {
@@ -98,7 +74,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 87.6927,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_mark_ts": "2026-09-30T23:11:27Z",
    "last_bid": 0.81
   },
   {
@@ -122,9 +98,9 @@
    "cat": "US Politics",
    "fair_at_entry": 0.9863,
    "tier": "explore",
-   "last_value": 101.8427,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
-   "last_bid": 0.992
+   "last_value": 102.356,
+   "last_mark_ts": "2026-09-30T23:11:27Z",
+   "last_bid": 0.997
   },
   {
    "pid": "15b2b13a",
@@ -147,9 +123,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 96.9379,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
-   "last_bid": 0.794
+   "last_value": 97.182,
+   "last_mark_ts": "2026-09-30T23:11:27Z",
+   "last_bid": 0.796
   },
   {
    "pid": "6bf91f47",
@@ -173,7 +149,7 @@
    "fair_at_entry": 0.9545,
    "tier": "explore",
    "last_value": 99.2042,
-   "last_mark_ts": "2026-09-30T19:35:51Z",
+   "last_mark_ts": "2026-09-30T23:11:28Z",
    "last_bid": 0.911
   },
   {
@@ -197,9 +173,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9435,
    "tier": "core",
-   "last_bid": 0.908,
-   "last_value": 213.1984,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_bid": 0.909,
+   "last_value": 213.4332,
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   },
   {
    "pid": "7d4c2ab7",
@@ -224,7 +200,7 @@
    "tier": "core",
    "last_bid": 0.92,
    "last_value": 494.4757,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   },
   {
    "pid": "46374d27",
@@ -249,7 +225,7 @@
    "tier": "core",
    "last_bid": 0.91,
    "last_value": 494.2201,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   },
   {
    "pid": "321f95bf",
@@ -272,9 +248,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9833,
    "tier": "explore",
-   "last_bid": 0.965,
-   "last_value": 99.3356,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_bid": 0.963,
+   "last_value": 99.1297,
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   },
   {
    "pid": "e5abaca9",
@@ -299,7 +275,7 @@
    "tier": "explore",
    "last_bid": 0.86,
    "last_value": 97.3767,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   },
   {
    "pid": "7f943e29",
@@ -322,9 +298,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.88,
-   "last_value": 98.5387,
-   "last_mark_ts": "2026-09-30T19:35:51Z"
+   "last_bid": 0.26,
+   "last_value": 29.1137,
+   "last_mark_ts": "2026-09-30T23:11:28Z"
   }
  ],
  "closed": [
@@ -355,6 +331,33 @@
    "closed": "2026-09-29T06:05:04Z",
    "reason": "погашение: выигрыш",
    "pnl": 17.6471
+  },
+  {
+   "pid": "dbd2d0db",
+   "c": "0x524ce344b80a160c237d91a33efdd8b82468b0dc0d33f60d500f8bf69b80b8bb",
+   "mid": "3399458",
+   "q": "Israel x Iran ceasefire continues through September 30?",
+   "e": "Israel x Iran ceasefire continues through...?",
+   "s": "israel-x-iran-ceasefire-continues-throughptptpt-20260716224448963",
+   "side": "buy",
+   "token": "110124369154659006328320349797831539154282530245624469518430389053088403535939",
+   "outcome": "Yes",
+   "qty": 525.0526,
+   "px": 0.95229,
+   "tpx": 0.95229,
+   "fee": 0.0,
+   "cost": 500.0,
+   "opened": "2026-09-25T15:25:57Z",
+   "end": "2026-09-30T20:29:00Z",
+   "best_at_open": 0.952,
+   "cat": "Geopolitics",
+   "fair_at_entry": 0.9752,
+   "last_bid": 0.99,
+   "exit_px": 1.0,
+   "proceeds": 525.0526,
+   "closed": "2026-09-30T23:11:27Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 25.0526
   }
  ],
  "trades": [
@@ -529,6 +532,18 @@
    "px": 0.88911,
    "fee": 0.4416,
    "cost": 100.0
+  },
+  {
+   "ts": "2026-09-30T23:11:27Z",
+   "action": "close",
+   "pid": "dbd2d0db",
+   "q": "Israel x Iran ceasefire continues through September 30?",
+   "side": "buy",
+   "qty": 525.0526,
+   "exit_px": 1.0,
+   "proceeds": 525.0526,
+   "pnl": 25.0526,
+   "reason": "погашение: выигрыш"
   }
  ]
 }

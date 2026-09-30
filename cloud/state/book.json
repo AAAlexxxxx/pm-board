@@ -1,29 +1,7 @@
 {
  "start_cash": 10000.0,
- "cash": 2264.5928,
+ "cash": 3400.9564,
  "open": [
-  {
-   "pid": "00eed8d0",
-   "c": "0x690fafd3b7bb8b4919ccf0f219b0014b65334411a1076162e76353e76d7f9bec",
-   "mid": "4641064",
-   "q": "US x Iran ceasefire continues through September 30?",
-   "e": "US-Iran ceasefire continues through...?",
-   "s": "us-iran-ceasefire-continues-throughptptpt",
-   "side": "buy",
-   "token": "18108354744468601294025853601030425188395211927926870885542758981304523217919",
-   "outcome": "Yes",
-   "qty": 1136.3636,
-   "px": 0.88,
-   "tpx": 0.88,
-   "fee": 0.0,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:09:32Z",
-   "end": "2026-09-30T23:59:00Z",
-   "best_at_open": 0.88,
-   "last_value": 1131.8181,
-   "last_mark_ts": "2026-09-30T19:35:49Z",
-   "last_bid": 0.996
-  },
   {
    "pid": "ad2297c4",
    "c": "0x6691f3b28720cfb48594a8560331ce008c7af7ee39e3ac7432e015ea97a1aba9",
@@ -42,9 +20,9 @@
    "opened": "2026-09-25T14:10:21Z",
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.959,
-   "last_value": 1032.6317,
-   "last_mark_ts": "2026-09-30T19:35:49Z",
-   "last_bid": 0.992
+   "last_value": 1037.8365,
+   "last_mark_ts": "2026-09-30T23:11:26Z",
+   "last_bid": 0.997
   },
   {
    "pid": "163cc8a3",
@@ -64,9 +42,9 @@
    "opened": "2026-09-25T14:10:33Z",
    "end": "2026-10-01T03:59:00Z",
    "best_at_open": 0.979,
-   "last_value": 996.3702,
-   "last_mark_ts": "2026-09-30T19:35:49Z",
-   "last_bid": 0.98
+   "last_value": 1008.5707,
+   "last_mark_ts": "2026-09-30T23:11:26Z",
+   "last_bid": 0.992
   },
   {
    "pid": "d511bb72",
@@ -86,9 +64,9 @@
    "opened": "2026-09-25T14:12:14Z",
    "end": "2026-10-04T00:00:00Z",
    "best_at_open": 0.752,
-   "last_value": 935.5679,
-   "last_mark_ts": "2026-09-30T19:35:49Z",
-   "last_bid": 0.713
+   "last_value": 883.0816,
+   "last_mark_ts": "2026-09-30T23:11:26Z",
+   "last_bid": 0.673
   },
   {
    "pid": "f9adf0b8",
@@ -109,7 +87,7 @@
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
    "last_value": 943.662,
-   "last_mark_ts": "2026-09-30T19:35:49Z",
+   "last_mark_ts": "2026-09-30T23:11:26Z",
    "last_bid": 0.67
   },
   {
@@ -131,7 +109,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
    "last_value": 1047.6191,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_mark_ts": "2026-09-30T23:11:27Z",
    "last_bid": 0.88
   },
   {
@@ -153,7 +131,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
    "last_value": 980.6947,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
+   "last_mark_ts": "2026-09-30T23:11:27Z",
    "last_bid": 0.82
   },
   {
@@ -201,9 +179,9 @@
     }
    ],
    "last_add": "2026-09-25T14:38:25Z",
-   "last_value": 979.1928,
-   "last_mark_ts": "2026-09-30T19:35:50Z",
-   "last_bid": 0.72
+   "last_value": 883.9935,
+   "last_mark_ts": "2026-09-30T23:11:27Z",
+   "last_bid": 0.65
   }
  ],
  "closed": [
@@ -256,6 +234,31 @@
    "closed": "2026-09-29T06:05:02Z",
    "reason": "погашение: выигрыш",
    "pnl": 244.137
+  },
+  {
+   "pid": "00eed8d0",
+   "c": "0x690fafd3b7bb8b4919ccf0f219b0014b65334411a1076162e76353e76d7f9bec",
+   "mid": "4641064",
+   "q": "US x Iran ceasefire continues through September 30?",
+   "e": "US-Iran ceasefire continues through...?",
+   "s": "us-iran-ceasefire-continues-throughptptpt",
+   "side": "buy",
+   "token": "18108354744468601294025853601030425188395211927926870885542758981304523217919",
+   "outcome": "Yes",
+   "qty": 1136.3636,
+   "px": 0.88,
+   "tpx": 0.88,
+   "fee": 0.0,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:09:32Z",
+   "end": "2026-09-30T23:59:00Z",
+   "best_at_open": 0.88,
+   "last_bid": 0.996,
+   "exit_px": 1.0,
+   "proceeds": 1136.3636,
+   "closed": "2026-09-30T23:11:26Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 136.3636
   }
  ],
  "trades": [
@@ -413,6 +416,18 @@
    "exit_px": 0.0,
    "proceeds": 1244.137,
    "pnl": 244.137,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-09-30T23:11:26Z",
+   "action": "close",
+   "pid": "00eed8d0",
+   "q": "US x Iran ceasefire continues through September 30?",
+   "side": "buy",
+   "qty": 1136.3636,
+   "exit_px": 1.0,
+   "proceeds": 1136.3636,
+   "pnl": 136.3636,
    "reason": "погашение: выигрыш"
   }
  ]
