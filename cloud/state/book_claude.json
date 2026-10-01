@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 7925.4012,
+ "cash": 8131.0036,
  "open": [
   {
    "pid": "f1d0649f",
@@ -24,7 +24,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
+   "last_mark_ts": "2026-10-01T16:40:24Z",
    "last_bid": 0.92
   },
   {
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 99.9248,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.956
+   "last_value": 100.0294,
+   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_bid": 0.957
   },
   {
    "pid": "5e4d97e7",
@@ -73,34 +73,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9553,
    "tier": "explore",
-   "last_value": 87.6927,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.81
-  },
-  {
-   "pid": "6bea2364",
-   "c": "0x6691f3b28720cfb48594a8560331ce008c7af7ee39e3ac7432e015ea97a1aba9",
-   "mid": "4824012",
-   "q": "Will the US announce a diesel export ban by September 30?",
-   "e": "US Announces Diesel Export ban by...?",
-   "s": "us-announces-diesel-export-ban-byptptpt",
-   "side": "sell",
-   "token": "32019791109448632019579681279930422475120883294709619287551606609860346863493",
-   "outcome": "No",
-   "qty": 102.664,
-   "px": 0.027,
-   "tpx": 0.973,
-   "fee": 0.1079,
-   "cost": 100.0,
-   "opened": "2026-09-27T10:09:46Z",
-   "end": "2026-10-01T03:59:00Z",
-   "best_at_open": 0.973,
-   "cat": "US Politics",
-   "fair_at_entry": 0.9863,
-   "tier": "explore",
-   "last_value": 102.356,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.997
+   "last_value": 86.6101,
+   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_bid": 0.8
   },
   {
    "pid": "15b2b13a",
@@ -123,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 97.182,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.796
+   "last_value": 98.6471,
+   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_bid": 0.808
   },
   {
    "pid": "6bf91f47",
@@ -148,9 +123,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 99.2042,
-   "last_mark_ts": "2026-09-30T23:11:28Z",
-   "last_bid": 0.911
+   "last_value": 99.6397,
+   "last_mark_ts": "2026-10-01T16:40:25Z",
+   "last_bid": 0.915
   },
   {
    "pid": "79d26e38",
@@ -173,9 +148,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9435,
    "tier": "core",
-   "last_bid": 0.909,
-   "last_value": 213.4332,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
+   "last_bid": 0.899,
+   "last_value": 211.0852,
+   "last_mark_ts": "2026-10-01T16:40:25Z"
   },
   {
    "pid": "7d4c2ab7",
@@ -200,7 +175,7 @@
    "tier": "core",
    "last_bid": 0.92,
    "last_value": 494.4757,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
+   "last_mark_ts": "2026-10-01T16:40:25Z"
   },
   {
    "pid": "46374d27",
@@ -225,32 +200,7 @@
    "tier": "core",
    "last_bid": 0.91,
    "last_value": 494.2201,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
-  },
-  {
-   "pid": "321f95bf",
-   "c": "0x76322f091999b26f468b93b158f1b1dd259e2127ac9e39b6afa6b5e99bc453af",
-   "mid": "4685134",
-   "q": "Will China PR vs. Turkmenistan end in a draw?",
-   "e": "China PR vs. Turkmenistan",
-   "s": "fif-chn-tkm-2026-10-02",
-   "side": "buy",
-   "token": "4182293672188064858299100436399789029971862003101374702870005212116719338445",
-   "outcome": "Yes",
-   "qty": 102.9384,
-   "px": 0.97,
-   "tpx": 0.97,
-   "fee": 0.1498,
-   "cost": 100.0,
-   "opened": "2026-09-30T16:23:29Z",
-   "end": "2026-10-02T11:35:00Z",
-   "best_at_open": 0.97,
-   "cat": "Sports",
-   "fair_at_entry": 0.9833,
-   "tier": "explore",
-   "last_bid": 0.963,
-   "last_value": 99.1297,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
+   "last_mark_ts": "2026-10-01T16:40:25Z"
   },
   {
    "pid": "e5abaca9",
@@ -273,9 +223,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.86,
-   "last_value": 97.3767,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
+   "last_bid": 0.83,
+   "last_value": 93.9798,
+   "last_mark_ts": "2026-10-01T16:40:25Z"
   },
   {
    "pid": "7f943e29",
@@ -298,9 +248,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.26,
-   "last_value": 29.1137,
-   "last_mark_ts": "2026-09-30T23:11:28Z"
+   "last_bid": 0.29,
+   "last_value": 32.473,
+   "last_mark_ts": "2026-10-01T16:40:25Z"
   }
  ],
  "closed": [
@@ -358,6 +308,62 @@
    "closed": "2026-09-30T23:11:27Z",
    "reason": "погашение: выигрыш",
    "pnl": 25.0526
+  },
+  {
+   "pid": "6bea2364",
+   "c": "0x6691f3b28720cfb48594a8560331ce008c7af7ee39e3ac7432e015ea97a1aba9",
+   "mid": "4824012",
+   "q": "Will the US announce a diesel export ban by September 30?",
+   "e": "US Announces Diesel Export ban by...?",
+   "s": "us-announces-diesel-export-ban-byptptpt",
+   "side": "sell",
+   "token": "32019791109448632019579681279930422475120883294709619287551606609860346863493",
+   "outcome": "No",
+   "qty": 102.664,
+   "px": 0.027,
+   "tpx": 0.973,
+   "fee": 0.1079,
+   "cost": 100.0,
+   "opened": "2026-09-27T10:09:46Z",
+   "end": "2026-10-01T03:59:00Z",
+   "best_at_open": 0.973,
+   "cat": "US Politics",
+   "fair_at_entry": 0.9863,
+   "tier": "explore",
+   "last_bid": 0.997,
+   "exit_px": 0.0,
+   "proceeds": 102.664,
+   "closed": "2026-10-01T16:40:24Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 2.664
+  },
+  {
+   "pid": "321f95bf",
+   "c": "0x76322f091999b26f468b93b158f1b1dd259e2127ac9e39b6afa6b5e99bc453af",
+   "mid": "4685134",
+   "q": "Will China PR vs. Turkmenistan end in a draw?",
+   "e": "China PR vs. Turkmenistan",
+   "s": "fif-chn-tkm-2026-10-02",
+   "side": "buy",
+   "token": "4182293672188064858299100436399789029971862003101374702870005212116719338445",
+   "outcome": "Yes",
+   "qty": 102.9384,
+   "px": 0.97,
+   "tpx": 0.97,
+   "fee": 0.1498,
+   "cost": 100.0,
+   "opened": "2026-09-30T16:23:29Z",
+   "end": "2026-10-02T11:35:00Z",
+   "best_at_open": 0.97,
+   "cat": "Sports",
+   "fair_at_entry": 0.9833,
+   "tier": "explore",
+   "last_bid": 0.963,
+   "exit_px": 1.0,
+   "proceeds": 102.9384,
+   "closed": "2026-10-01T16:40:24Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 2.9384
   }
  ],
  "trades": [
@@ -543,6 +549,30 @@
    "exit_px": 1.0,
    "proceeds": 525.0526,
    "pnl": 25.0526,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-01T16:40:24Z",
+   "action": "close",
+   "pid": "6bea2364",
+   "q": "Will the US announce a diesel export ban by September 30?",
+   "side": "sell",
+   "qty": 102.664,
+   "exit_px": 0.0,
+   "proceeds": 102.664,
+   "pnl": 2.664,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-01T16:40:24Z",
+   "action": "close",
+   "pid": "321f95bf",
+   "q": "Will China PR vs. Turkmenistan end in a draw?",
+   "side": "buy",
+   "qty": 102.9384,
+   "exit_px": 1.0,
+   "proceeds": 102.9384,
+   "pnl": 2.9384,
    "reason": "погашение: выигрыш"
   }
  ]

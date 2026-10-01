@@ -1,51 +1,7 @@
 {
  "start_cash": 10000.0,
- "cash": 3400.9564,
+ "cash": 5458.6201,
  "open": [
-  {
-   "pid": "ad2297c4",
-   "c": "0x6691f3b28720cfb48594a8560331ce008c7af7ee39e3ac7432e015ea97a1aba9",
-   "mid": "4824012",
-   "q": "Will the US announce a diesel export ban by September 30?",
-   "e": "US Announces Diesel Export ban by...?",
-   "s": "us-announces-diesel-export-ban-byptptpt",
-   "side": "sell",
-   "token": "32019791109448632019579681279930422475120883294709619287551606609860346863493",
-   "outcome": "No",
-   "qty": 1040.9594,
-   "px": 0.04092,
-   "tpx": 0.95908,
-   "fee": 1.634,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:10:21Z",
-   "end": "2026-10-01T03:59:00Z",
-   "best_at_open": 0.959,
-   "last_value": 1037.8365,
-   "last_mark_ts": "2026-09-30T23:11:26Z",
-   "last_bid": 0.997
-  },
-  {
-   "pid": "163cc8a3",
-   "c": "0xcfdf507e7677114ebd2da6371b167c8e2f19b1a048f1b9f92f139c9553fc9364",
-   "mid": "3667936",
-   "q": "Will the next Google Gemini Pro model be released by September 30, 2026?",
-   "e": "Next Google Gemini Pro Model released by...?",
-   "s": "next-google-gemini-pro-model-released-byptptpt",
-   "side": "sell",
-   "token": "45616597027927994404486413287361000068169599668527207960164030011513161114219",
-   "outcome": "No",
-   "qty": 1016.7043,
-   "px": 0.0171,
-   "tpx": 0.9829,
-   "fee": 0.6832,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:10:33Z",
-   "end": "2026-10-01T03:59:00Z",
-   "best_at_open": 0.979,
-   "last_value": 1008.5707,
-   "last_mark_ts": "2026-09-30T23:11:26Z",
-   "last_bid": 0.992
-  },
   {
    "pid": "d511bb72",
    "c": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
@@ -64,9 +20,9 @@
    "opened": "2026-09-25T14:12:14Z",
    "end": "2026-10-04T00:00:00Z",
    "best_at_open": 0.752,
-   "last_value": 883.0816,
-   "last_mark_ts": "2026-09-30T23:11:26Z",
-   "last_bid": 0.673
+   "last_value": 939.5043,
+   "last_mark_ts": "2026-10-01T16:40:23Z",
+   "last_bid": 0.716
   },
   {
    "pid": "f9adf0b8",
@@ -87,7 +43,7 @@
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
    "last_value": 943.662,
-   "last_mark_ts": "2026-09-30T23:11:26Z",
+   "last_mark_ts": "2026-10-01T16:40:23Z",
    "last_bid": 0.67
   },
   {
@@ -109,7 +65,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
    "last_value": 1047.6191,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
+   "last_mark_ts": "2026-10-01T16:40:23Z",
    "last_bid": 0.88
   },
   {
@@ -130,9 +86,9 @@
    "opened": "2026-09-25T14:31:49Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
-   "last_value": 980.6947,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.82
+   "last_value": 992.6544,
+   "last_mark_ts": "2026-10-01T16:40:23Z",
+   "last_bid": 0.83
   },
   {
    "pid": "0e237c1e",
@@ -179,9 +135,9 @@
     }
    ],
    "last_add": "2026-09-25T14:38:25Z",
-   "last_value": 883.9935,
-   "last_mark_ts": "2026-09-30T23:11:27Z",
-   "last_bid": 0.65
+   "last_value": 938.3931,
+   "last_mark_ts": "2026-10-01T16:40:23Z",
+   "last_bid": 0.69
   }
  ],
  "closed": [
@@ -259,6 +215,56 @@
    "closed": "2026-09-30T23:11:26Z",
    "reason": "погашение: выигрыш",
    "pnl": 136.3636
+  },
+  {
+   "pid": "ad2297c4",
+   "c": "0x6691f3b28720cfb48594a8560331ce008c7af7ee39e3ac7432e015ea97a1aba9",
+   "mid": "4824012",
+   "q": "Will the US announce a diesel export ban by September 30?",
+   "e": "US Announces Diesel Export ban by...?",
+   "s": "us-announces-diesel-export-ban-byptptpt",
+   "side": "sell",
+   "token": "32019791109448632019579681279930422475120883294709619287551606609860346863493",
+   "outcome": "No",
+   "qty": 1040.9594,
+   "px": 0.04092,
+   "tpx": 0.95908,
+   "fee": 1.634,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:10:21Z",
+   "end": "2026-10-01T03:59:00Z",
+   "best_at_open": 0.959,
+   "last_bid": 0.997,
+   "exit_px": 0.0,
+   "proceeds": 1040.9594,
+   "closed": "2026-10-01T16:40:23Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 40.9594
+  },
+  {
+   "pid": "163cc8a3",
+   "c": "0xcfdf507e7677114ebd2da6371b167c8e2f19b1a048f1b9f92f139c9553fc9364",
+   "mid": "3667936",
+   "q": "Will the next Google Gemini Pro model be released by September 30, 2026?",
+   "e": "Next Google Gemini Pro Model released by...?",
+   "s": "next-google-gemini-pro-model-released-byptptpt",
+   "side": "sell",
+   "token": "45616597027927994404486413287361000068169599668527207960164030011513161114219",
+   "outcome": "No",
+   "qty": 1016.7043,
+   "px": 0.0171,
+   "tpx": 0.9829,
+   "fee": 0.6832,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:10:33Z",
+   "end": "2026-10-01T03:59:00Z",
+   "best_at_open": 0.979,
+   "last_bid": 0.992,
+   "exit_px": 0.0,
+   "proceeds": 1016.7043,
+   "closed": "2026-10-01T16:40:23Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 16.7043
   }
  ],
  "trades": [
@@ -428,6 +434,30 @@
    "exit_px": 1.0,
    "proceeds": 1136.3636,
    "pnl": 136.3636,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-01T16:40:23Z",
+   "action": "close",
+   "pid": "ad2297c4",
+   "q": "Will the US announce a diesel export ban by September 30?",
+   "side": "sell",
+   "qty": 1040.9594,
+   "exit_px": 0.0,
+   "proceeds": 1040.9594,
+   "pnl": 40.9594,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-01T16:40:23Z",
+   "action": "close",
+   "pid": "163cc8a3",
+   "q": "Will the next Google Gemini Pro model be released by September 30, 2026?",
+   "side": "sell",
+   "qty": 1016.7043,
+   "exit_px": 0.0,
+   "proceeds": 1016.7043,
+   "pnl": 16.7043,
    "reason": "погашение: выигрыш"
   }
  ]
