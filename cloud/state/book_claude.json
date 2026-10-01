@@ -24,7 +24,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 98.6485,
-   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_mark_ts": "2026-10-01T17:00:41Z",
    "last_bid": 0.92
   },
   {
@@ -49,7 +49,7 @@
    "fair_at_entry": 0.9809,
    "tier": "explore",
    "last_value": 100.0294,
-   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_mark_ts": "2026-10-01T17:00:41Z",
    "last_bid": 0.957
   },
   {
@@ -74,7 +74,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 86.6101,
-   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_mark_ts": "2026-10-01T17:00:41Z",
    "last_bid": 0.8
   },
   {
@@ -99,7 +99,7 @@
    "fair_at_entry": 0.8525,
    "tier": "explore",
    "last_value": 98.6471,
-   "last_mark_ts": "2026-10-01T16:40:24Z",
+   "last_mark_ts": "2026-10-01T17:00:42Z",
    "last_bid": 0.808
   },
   {
@@ -124,7 +124,7 @@
    "fair_at_entry": 0.9545,
    "tier": "explore",
    "last_value": 99.6397,
-   "last_mark_ts": "2026-10-01T16:40:25Z",
+   "last_mark_ts": "2026-10-01T17:00:42Z",
    "last_bid": 0.915
   },
   {
@@ -150,7 +150,7 @@
    "tier": "core",
    "last_bid": 0.899,
    "last_value": 211.0852,
-   "last_mark_ts": "2026-10-01T16:40:25Z"
+   "last_mark_ts": "2026-10-01T17:00:42Z"
   },
   {
    "pid": "7d4c2ab7",
@@ -175,7 +175,7 @@
    "tier": "core",
    "last_bid": 0.92,
    "last_value": 494.4757,
-   "last_mark_ts": "2026-10-01T16:40:25Z"
+   "last_mark_ts": "2026-10-01T17:00:42Z"
   },
   {
    "pid": "46374d27",
@@ -200,7 +200,7 @@
    "tier": "core",
    "last_bid": 0.91,
    "last_value": 494.2201,
-   "last_mark_ts": "2026-10-01T16:40:25Z"
+   "last_mark_ts": "2026-10-01T17:00:42Z"
   },
   {
    "pid": "e5abaca9",
@@ -225,7 +225,7 @@
    "tier": "explore",
    "last_bid": 0.83,
    "last_value": 93.9798,
-   "last_mark_ts": "2026-10-01T16:40:25Z"
+   "last_mark_ts": "2026-10-01T17:00:42Z"
   },
   {
    "pid": "7f943e29",
@@ -248,9 +248,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.29,
-   "last_value": 32.473,
-   "last_mark_ts": "2026-10-01T16:40:25Z"
+   "last_bid": 0.33,
+   "last_value": 36.952,
+   "last_mark_ts": "2026-10-01T17:00:43Z"
   }
  ],
  "closed": [
