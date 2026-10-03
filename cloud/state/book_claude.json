@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 8131.0036,
+ "cash": 7831.0036,
  "open": [
   {
    "pid": "f1d0649f",
@@ -23,9 +23,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9653,
    "tier": "explore",
-   "last_value": 98.6485,
-   "last_mark_ts": "2026-10-02T01:33:29Z",
-   "last_bid": 0.92
+   "last_value": 99.7207,
+   "last_mark_ts": "2026-10-03T14:42:07Z",
+   "last_bid": 0.93
   },
   {
    "pid": "a33acc3d",
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 99.5068,
-   "last_mark_ts": "2026-10-02T01:33:29Z",
-   "last_bid": 0.952
+   "last_value": 100.2384,
+   "last_mark_ts": "2026-10-03T14:42:08Z",
+   "last_bid": 0.959
   },
   {
    "pid": "5e4d97e7",
@@ -73,9 +73,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9553,
    "tier": "explore",
-   "last_value": 81.197,
-   "last_mark_ts": "2026-10-02T01:33:29Z",
-   "last_bid": 0.75
+   "last_value": 77.9491,
+   "last_mark_ts": "2026-10-03T14:42:08Z",
+   "last_bid": 0.72
   },
   {
    "pid": "15b2b13a",
@@ -98,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 101.4551,
-   "last_mark_ts": "2026-10-02T01:33:30Z",
-   "last_bid": 0.831
+   "last_value": 96.0833,
+   "last_mark_ts": "2026-10-03T14:42:08Z",
+   "last_bid": 0.787
   },
   {
    "pid": "6bf91f47",
@@ -123,9 +123,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 99.6397,
-   "last_mark_ts": "2026-10-02T01:33:30Z",
-   "last_bid": 0.915
+   "last_value": 100.7287,
+   "last_mark_ts": "2026-10-03T14:42:08Z",
+   "last_bid": 0.925
   },
   {
    "pid": "79d26e38",
@@ -148,9 +148,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9435,
    "tier": "core",
-   "last_bid": 0.897,
-   "last_value": 210.6156,
-   "last_mark_ts": "2026-10-02T01:33:30Z"
+   "last_bid": 0.911,
+   "last_value": 213.9028,
+   "last_mark_ts": "2026-10-03T14:42:08Z"
   },
   {
    "pid": "7d4c2ab7",
@@ -173,9 +173,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9653,
    "tier": "core",
-   "last_bid": 0.92,
-   "last_value": 494.4757,
-   "last_mark_ts": "2026-10-02T01:33:30Z"
+   "last_bid": 0.93,
+   "last_value": 499.8504,
+   "last_mark_ts": "2026-10-03T14:42:08Z"
   },
   {
    "pid": "46374d27",
@@ -198,9 +198,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9553,
    "tier": "core",
-   "last_bid": 0.92,
-   "last_value": 499.6511,
-   "last_mark_ts": "2026-10-02T01:33:30Z"
+   "last_bid": 0.93,
+   "last_value": 505.0821,
+   "last_mark_ts": "2026-10-03T14:42:08Z"
   },
   {
    "pid": "e5abaca9",
@@ -223,9 +223,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.83,
-   "last_value": 93.9798,
-   "last_mark_ts": "2026-10-02T01:33:30Z"
+   "last_bid": 0.85,
+   "last_value": 96.2444,
+   "last_mark_ts": "2026-10-03T14:42:08Z"
   },
   {
    "pid": "7f943e29",
@@ -248,9 +248,84 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.36,
-   "last_value": 40.3113,
-   "last_mark_ts": "2026-10-02T01:33:30Z"
+   "last_bid": 0.35,
+   "last_value": 39.1915,
+   "last_mark_ts": "2026-10-03T14:42:09Z"
+  },
+  {
+   "pid": "12bfaec1",
+   "c": "0x087469b4129c64c688397028059dfd366796adbd426e0079ee4cfdd2e4a07b61",
+   "mid": "601920",
+   "q": "Will any presidential candidate win outright in the first round of the Brazil election?",
+   "e": "Will any presidential candidate win outright in the first round of the Brazil election?",
+   "s": "will-any-presidential-candidate-win-outright-in-the-first-round-of-the-brazil-election",
+   "side": "sell",
+   "token": "45822599979868501396582860994506290061594012396386219725082308923565779306211",
+   "outcome": "No",
+   "qty": 105.2663,
+   "px": 0.052,
+   "tpx": 0.948,
+   "fee": 0.2076,
+   "cost": 100.0,
+   "opened": "2026-10-03T14:42:07Z",
+   "end": "2026-10-05T03:59:00Z",
+   "best_at_open": 0.948,
+   "cat": "Geopolitics",
+   "fair_at_entry": 0.9702,
+   "tier": "explore",
+   "last_bid": 0.943,
+   "last_value": 99.2661,
+   "last_mark_ts": "2026-10-03T14:42:09Z"
+  },
+  {
+   "pid": "44c0bcb9",
+   "c": "0x4de72138204727d2821bff847d8158819ab5b591db1b5b263676126cbb3a0430",
+   "mid": "630924",
+   "q": "Will the Democrats win the South Carolina Senate race in 2026?",
+   "e": "South Carolina Senate Election Winner",
+   "s": "south-carolina-senate-election-winner",
+   "side": "sell",
+   "token": "33485925353171072312284533208639606685310281710515007938376691890027292332545",
+   "outcome": "No",
+   "qty": 113.0935,
+   "px": 0.12,
+   "tpx": 0.88,
+   "fee": 0.4777,
+   "cost": 100.0,
+   "opened": "2026-10-03T14:42:07Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.88,
+   "cat": "Elections",
+   "fair_at_entry": 0.9207,
+   "tier": "explore",
+   "last_bid": 0.87,
+   "last_value": 98.3913,
+   "last_mark_ts": "2026-10-03T14:42:09Z"
+  },
+  {
+   "pid": "8a277212",
+   "c": "0x1c017cbb38a9d0ab233ebb265b25c78290317e6a2470657ca18a73a112397b55",
+   "mid": "630925",
+   "q": "Will the Republicans win the South Carolina Senate race in 2026?",
+   "e": "South Carolina Senate Election Winner",
+   "s": "south-carolina-senate-election-winner",
+   "side": "buy",
+   "token": "84368524152268016512433556151474175385160499638069024812438264090070245734708",
+   "outcome": "Yes",
+   "qty": 114.3479,
+   "px": 0.87,
+   "tpx": 0.87,
+   "fee": 0.5173,
+   "cost": 100.0,
+   "opened": "2026-10-03T14:42:07Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.87,
+   "cat": "Elections",
+   "fair_at_entry": 0.9006,
+   "tier": "explore",
+   "last_bid": 0.86,
+   "last_value": 98.3392,
+   "last_mark_ts": "2026-10-03T14:42:09Z"
   }
  ],
  "closed": [
@@ -574,6 +649,42 @@
    "proceeds": 102.9384,
    "pnl": 2.9384,
    "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-03T14:42:07Z",
+   "action": "open",
+   "pid": "12bfaec1",
+   "c": "0x087469b4129c64c688397028059dfd366796adbd426e0079ee4cfdd2e4a07b61",
+   "q": "Will any presidential candidate win outright in the first round of the Brazil election?",
+   "side": "sell",
+   "qty": 105.2663,
+   "px": 0.052,
+   "fee": 0.2076,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-03T14:42:07Z",
+   "action": "open",
+   "pid": "44c0bcb9",
+   "c": "0x4de72138204727d2821bff847d8158819ab5b591db1b5b263676126cbb3a0430",
+   "q": "Will the Democrats win the South Carolina Senate race in 2026?",
+   "side": "sell",
+   "qty": 113.0935,
+   "px": 0.12,
+   "fee": 0.4777,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-03T14:42:07Z",
+   "action": "open",
+   "pid": "8a277212",
+   "c": "0x1c017cbb38a9d0ab233ebb265b25c78290317e6a2470657ca18a73a112397b55",
+   "q": "Will the Republicans win the South Carolina Senate race in 2026?",
+   "side": "buy",
+   "qty": 114.3479,
+   "px": 0.87,
+   "fee": 0.5173,
+   "cost": 100.0
   }
  ]
 }
