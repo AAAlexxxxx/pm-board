@@ -3,28 +3,6 @@
  "cash": 5458.6201,
  "open": [
   {
-   "pid": "d511bb72",
-   "c": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
-   "mid": "1365854",
-   "q": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
-   "e": "Brazil Presidential Election First Round: 2nd Place",
-   "s": "brazil-presidential-election-first-round-2nd-place",
-   "side": "sell",
-   "token": "61962380735045871351352563947746037189767398069960776455040567750304235670037",
-   "outcome": "No",
-   "qty": 1312.1569,
-   "px": 0.2453,
-   "tpx": 0.7547,
-   "fee": 9.7167,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:12:14Z",
-   "end": "2026-10-04T00:00:00Z",
-   "best_at_open": 0.752,
-   "last_value": 885.7059,
-   "last_mark_ts": "2026-10-04T16:57:32Z",
-   "last_bid": 0.675
-  },
-  {
    "pid": "f9adf0b8",
    "c": "0x7586a96520578acaaaa4ea84a2582f197f84255da1f3392a7aa300386c187b37",
    "mid": "682705",
@@ -42,9 +20,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 887.3239,
-   "last_mark_ts": "2026-10-04T16:57:32Z",
-   "last_bid": 0.63
+   "last_value": 971.831,
+   "last_mark_ts": "2026-10-14T15:02:46Z",
+   "last_bid": 0.69
   },
   {
    "pid": "c4f88a7d",
@@ -64,9 +42,9 @@
    "opened": "2026-09-25T14:21:52Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
-   "last_value": 1071.4286,
-   "last_mark_ts": "2026-10-04T16:57:32Z",
-   "last_bid": 0.9
+   "last_value": 1095.2381,
+   "last_mark_ts": "2026-10-14T15:02:46Z",
+   "last_bid": 0.92
   },
   {
    "pid": "cd8cda0e",
@@ -86,58 +64,9 @@
    "opened": "2026-09-25T14:31:49Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
-   "last_value": 1004.6141,
-   "last_mark_ts": "2026-10-04T16:57:32Z",
-   "last_bid": 0.84
-  },
-  {
-   "pid": "0e237c1e",
-   "c": "0xb40166b20824d518bfeb32bb64ac73f926958fb8768708de9fed74dd2e6b9443",
-   "mid": "4469398",
-   "q": "Will annual inflation be 3.7% in September?",
-   "e": "September Inflation US - Annual",
-   "s": "september-inflation-us-annual",
-   "side": "sell",
-   "token": "72482160433061953557137540169480378143446690699017228918228591779215546584462",
-   "outcome": "No",
-   "qty": 1359.99,
-   "px": 0.27574,
-   "tpx": 0.72426,
-   "fee": 13.5777,
-   "cost": 998.5704,
-   "opened": "2026-09-25T14:32:53Z",
-   "end": "2026-10-15T03:59:00Z",
-   "best_at_open": 0.71,
-   "lots": [
-    {
-     "opened": "2026-09-25T14:32:53Z",
-     "qty": 453.33,
-     "px": 0.27574,
-     "tpx": 0.72426,
-     "fee": 4.5259,
-     "cost": 332.8568
-    },
-    {
-     "opened": "2026-09-25T14:33:34Z",
-     "qty": 453.33,
-     "px": 0.27574,
-     "tpx": 0.72426,
-     "fee": 4.5259,
-     "cost": 332.8568
-    },
-    {
-     "opened": "2026-09-25T14:38:25Z",
-     "qty": 453.33,
-     "px": 0.27574,
-     "tpx": 0.72426,
-     "fee": 4.5259,
-     "cost": 332.8568
-    }
-   ],
-   "last_add": "2026-09-25T14:38:25Z",
-   "last_value": 938.3931,
-   "last_mark_ts": "2026-10-04T16:57:32Z",
-   "last_bid": 0.69
+   "last_value": 1113.4473,
+   "last_mark_ts": "2026-10-14T15:02:46Z",
+   "last_bid": 0.931
   }
  ],
  "closed": [
@@ -265,6 +194,83 @@
    "closed": "2026-10-01T16:40:23Z",
    "reason": "погашение: выигрыш",
    "pnl": 16.7043
+  },
+  {
+   "pid": "d511bb72",
+   "c": "0x8ee27c276a1bee094293751285d8a6697674b023196cb21fdd14bf3ca12f6ec0",
+   "mid": "1365854",
+   "q": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+   "e": "Brazil Presidential Election First Round: 2nd Place",
+   "s": "brazil-presidential-election-first-round-2nd-place",
+   "side": "sell",
+   "token": "61962380735045871351352563947746037189767398069960776455040567750304235670037",
+   "outcome": "No",
+   "qty": 1312.1569,
+   "px": 0.2453,
+   "tpx": 0.7547,
+   "fee": 9.7167,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:12:14Z",
+   "end": "2026-10-04T00:00:00Z",
+   "best_at_open": 0.752,
+   "last_bid": 0.675,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "closed": "2026-10-14T15:02:46Z",
+   "reason": "погашение: проигрыш",
+   "pnl": -1000.0
+  },
+  {
+   "pid": "0e237c1e",
+   "c": "0xb40166b20824d518bfeb32bb64ac73f926958fb8768708de9fed74dd2e6b9443",
+   "mid": "4469398",
+   "q": "Will annual inflation be 3.7% in September?",
+   "e": "September Inflation US - Annual",
+   "s": "september-inflation-us-annual",
+   "side": "sell",
+   "token": "72482160433061953557137540169480378143446690699017228918228591779215546584462",
+   "outcome": "No",
+   "qty": 1359.99,
+   "px": 0.27574,
+   "tpx": 0.72426,
+   "fee": 13.5777,
+   "cost": 998.5704,
+   "opened": "2026-09-25T14:32:53Z",
+   "end": "2026-10-15T03:59:00Z",
+   "best_at_open": 0.71,
+   "lots": [
+    {
+     "opened": "2026-09-25T14:32:53Z",
+     "qty": 453.33,
+     "px": 0.27574,
+     "tpx": 0.72426,
+     "fee": 4.5259,
+     "cost": 332.8568
+    },
+    {
+     "opened": "2026-09-25T14:33:34Z",
+     "qty": 453.33,
+     "px": 0.27574,
+     "tpx": 0.72426,
+     "fee": 4.5259,
+     "cost": 332.8568
+    },
+    {
+     "opened": "2026-09-25T14:38:25Z",
+     "qty": 453.33,
+     "px": 0.27574,
+     "tpx": 0.72426,
+     "fee": 4.5259,
+     "cost": 332.8568
+    }
+   ],
+   "last_add": "2026-09-25T14:38:25Z",
+   "last_bid": 0.69,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "closed": "2026-10-14T15:02:46Z",
+   "reason": "погашение: проигрыш",
+   "pnl": -998.5704
   }
  ],
  "trades": [
@@ -459,6 +465,30 @@
    "proceeds": 1016.7043,
    "pnl": 16.7043,
    "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-10-14T15:02:46Z",
+   "action": "close",
+   "pid": "d511bb72",
+   "q": "Will Luiz Inácio Lula da Silva finish in second place in the first round of the 2026 Brazilian presidential election?",
+   "side": "sell",
+   "qty": 1312.1569,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "pnl": -1000.0,
+   "reason": "погашение: проигрыш"
+  },
+  {
+   "ts": "2026-10-14T15:02:46Z",
+   "action": "close",
+   "pid": "0e237c1e",
+   "q": "Will annual inflation be 3.7% in September?",
+   "side": "sell",
+   "qty": 1359.99,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "pnl": -998.5704,
+   "reason": "погашение: проигрыш"
   }
  ]
 }
