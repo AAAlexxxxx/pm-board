@@ -20,9 +20,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 971.831,
-   "last_mark_ts": "2026-10-14T17:01:54Z",
-   "last_bid": 0.69
+   "last_value": 1028.169,
+   "last_mark_ts": "2026-10-14T23:24:12Z",
+   "last_bid": 0.73
   },
   {
    "pid": "c4f88a7d",
@@ -42,9 +42,9 @@
    "opened": "2026-09-25T14:21:52Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.84,
-   "last_value": 1095.2381,
-   "last_mark_ts": "2026-10-14T17:01:54Z",
-   "last_bid": 0.92
+   "last_value": 1083.3333,
+   "last_mark_ts": "2026-10-14T23:24:12Z",
+   "last_bid": 0.91
   },
   {
    "pid": "cd8cda0e",
@@ -65,7 +65,7 @@
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
    "last_value": 1113.4473,
-   "last_mark_ts": "2026-10-14T17:01:55Z",
+   "last_mark_ts": "2026-10-14T23:24:13Z",
    "last_bid": 0.931
   }
  ],
