@@ -24,7 +24,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 97.5762,
-   "last_mark_ts": "2026-10-14T23:24:13Z",
+   "last_mark_ts": "2026-10-17T18:46:16Z",
    "last_bid": 0.91
   },
   {
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 100.552,
-   "last_mark_ts": "2026-10-14T23:24:13Z",
-   "last_bid": 0.962
+   "last_value": 100.2384,
+   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_bid": 0.959
   },
   {
    "pid": "5e4d97e7",
@@ -73,9 +73,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9553,
    "tier": "explore",
-   "last_value": 92.0232,
-   "last_mark_ts": "2026-10-14T23:24:13Z",
-   "last_bid": 0.85
+   "last_value": 83.3622,
+   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_bid": 0.77
   },
   {
    "pid": "15b2b13a",
@@ -98,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 77.4038,
-   "last_mark_ts": "2026-10-14T23:24:13Z",
-   "last_bid": 0.634
+   "last_value": 75.4504,
+   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_bid": 0.618
   },
   {
    "pid": "6bf91f47",
@@ -123,9 +123,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 105.8468,
-   "last_mark_ts": "2026-10-14T23:24:13Z",
-   "last_bid": 0.972
+   "last_value": 106.1735,
+   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_bid": 0.975
   },
   {
    "pid": "7d4c2ab7",
@@ -150,7 +150,7 @@
    "tier": "core",
    "last_bid": 0.9,
    "last_value": 483.7262,
-   "last_mark_ts": "2026-10-14T23:24:13Z"
+   "last_mark_ts": "2026-10-17T18:46:16Z"
   },
   {
    "pid": "46374d27",
@@ -175,7 +175,7 @@
    "tier": "core",
    "last_bid": 0.9,
    "last_value": 488.7891,
-   "last_mark_ts": "2026-10-14T23:24:14Z"
+   "last_mark_ts": "2026-10-17T18:46:16Z"
   },
   {
    "pid": "7f943e29",
@@ -198,9 +198,9 @@
    "cat": "Econ/Finance",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.31,
-   "last_value": 34.7125,
-   "last_mark_ts": "2026-10-14T23:24:14Z"
+   "last_bid": 0.2,
+   "last_value": 22.3952,
+   "last_mark_ts": "2026-10-17T18:46:17Z"
   },
   {
    "pid": "44c0bcb9",
@@ -225,7 +225,7 @@
    "tier": "explore",
    "last_bid": 0.84,
    "last_value": 94.9985,
-   "last_mark_ts": "2026-10-14T23:24:14Z"
+   "last_mark_ts": "2026-10-17T18:46:17Z"
   },
   {
    "pid": "8a277212",
@@ -250,32 +250,7 @@
    "tier": "explore",
    "last_bid": 0.84,
    "last_value": 96.0522,
-   "last_mark_ts": "2026-10-14T23:24:14Z"
-  },
-  {
-   "pid": "6a2ab9ea",
-   "c": "0x57e97ab7f68a11013e7e4096ce6b0601b40b9e5a8609c4cb4196ef1b753e6953",
-   "mid": "5650402",
-   "q": "Katie Zacharia out as Press Secretary by October 31?",
-   "e": "Katie Zacharia out as Press Secretary by...?",
-   "s": "katie-zacharia-out-as-press-secretary-by",
-   "side": "sell",
-   "token": "103073819066628120645127138335886275313980031518449018311053252500304952625675",
-   "outcome": "No",
-   "qty": 109.0341,
-   "px": 0.086,
-   "tpx": 0.914,
-   "fee": 0.3428,
-   "cost": 100.0,
-   "opened": "2026-10-14T15:03:09Z",
-   "end": "2026-11-01T03:59:00Z",
-   "best_at_open": 0.914,
-   "cat": "US Politics",
-   "fair_at_entry": 0.9363,
-   "tier": "explore",
-   "last_bid": 0.928,
-   "last_value": 101.1836,
-   "last_mark_ts": "2026-10-14T23:24:14Z"
+   "last_mark_ts": "2026-10-17T18:46:17Z"
   }
  ],
  "closed": [
@@ -473,6 +448,34 @@
    "closed": "2026-10-14T15:02:46Z",
    "reason": "погашение: выигрыш",
    "pnl": 5.2663
+  },
+  {
+   "pid": "6a2ab9ea",
+   "c": "0x57e97ab7f68a11013e7e4096ce6b0601b40b9e5a8609c4cb4196ef1b753e6953",
+   "mid": "5650402",
+   "q": "Katie Zacharia out as Press Secretary by October 31?",
+   "e": "Katie Zacharia out as Press Secretary by...?",
+   "s": "katie-zacharia-out-as-press-secretary-by",
+   "side": "sell",
+   "token": "103073819066628120645127138335886275313980031518449018311053252500304952625675",
+   "outcome": "No",
+   "qty": 109.0341,
+   "px": 0.086,
+   "tpx": 0.914,
+   "fee": 0.3428,
+   "cost": 100.0,
+   "opened": "2026-10-14T15:03:09Z",
+   "end": "2026-11-01T03:59:00Z",
+   "best_at_open": 0.914,
+   "cat": "US Politics",
+   "fair_at_entry": 0.9363,
+   "tier": "explore",
+   "last_bid": 0.928,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "closed": "2026-10-17T18:46:15Z",
+   "reason": "погашение: проигрыш",
+   "pnl": -100.0
   }
  ],
  "trades": [
@@ -767,6 +770,18 @@
    "px": 0.086,
    "fee": 0.3428,
    "cost": 100.0
+  },
+  {
+   "ts": "2026-10-17T18:46:15Z",
+   "action": "close",
+   "pid": "6a2ab9ea",
+   "q": "Katie Zacharia out as Press Secretary by October 31?",
+   "side": "sell",
+   "qty": 109.0341,
+   "exit_px": 1.0,
+   "proceeds": 0.0,
+   "pnl": -100.0,
+   "reason": "погашение: проигрыш"
   }
  ]
 }
