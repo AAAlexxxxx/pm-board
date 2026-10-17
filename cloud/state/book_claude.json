@@ -24,7 +24,7 @@
    "fair_at_entry": 0.9653,
    "tier": "explore",
    "last_value": 97.5762,
-   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_mark_ts": "2026-10-17T21:23:38Z",
    "last_bid": 0.91
   },
   {
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 100.2384,
-   "last_mark_ts": "2026-10-17T18:46:16Z",
-   "last_bid": 0.959
+   "last_value": 100.1339,
+   "last_mark_ts": "2026-10-17T21:23:39Z",
+   "last_bid": 0.958
   },
   {
    "pid": "5e4d97e7",
@@ -74,7 +74,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 83.3622,
-   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_mark_ts": "2026-10-17T21:23:39Z",
    "last_bid": 0.77
   },
   {
@@ -98,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 75.4504,
-   "last_mark_ts": "2026-10-17T18:46:16Z",
-   "last_bid": 0.618
+   "last_value": 75.2062,
+   "last_mark_ts": "2026-10-17T21:23:39Z",
+   "last_bid": 0.616
   },
   {
    "pid": "6bf91f47",
@@ -124,7 +124,7 @@
    "fair_at_entry": 0.9545,
    "tier": "explore",
    "last_value": 106.1735,
-   "last_mark_ts": "2026-10-17T18:46:16Z",
+   "last_mark_ts": "2026-10-17T21:23:39Z",
    "last_bid": 0.975
   },
   {
@@ -150,7 +150,7 @@
    "tier": "core",
    "last_bid": 0.9,
    "last_value": 483.7262,
-   "last_mark_ts": "2026-10-17T18:46:16Z"
+   "last_mark_ts": "2026-10-17T21:23:39Z"
   },
   {
    "pid": "46374d27",
@@ -175,7 +175,7 @@
    "tier": "core",
    "last_bid": 0.9,
    "last_value": 488.7891,
-   "last_mark_ts": "2026-10-17T18:46:16Z"
+   "last_mark_ts": "2026-10-17T21:23:39Z"
   },
   {
    "pid": "7f943e29",
@@ -200,7 +200,7 @@
    "tier": "explore",
    "last_bid": 0.2,
    "last_value": 22.3952,
-   "last_mark_ts": "2026-10-17T18:46:17Z"
+   "last_mark_ts": "2026-10-17T21:23:40Z"
   },
   {
    "pid": "44c0bcb9",
@@ -225,7 +225,7 @@
    "tier": "explore",
    "last_bid": 0.84,
    "last_value": 94.9985,
-   "last_mark_ts": "2026-10-17T18:46:17Z"
+   "last_mark_ts": "2026-10-17T21:23:40Z"
   },
   {
    "pid": "8a277212",
@@ -250,7 +250,7 @@
    "tier": "explore",
    "last_bid": 0.84,
    "last_value": 96.0522,
-   "last_mark_ts": "2026-10-17T18:46:17Z"
+   "last_mark_ts": "2026-10-17T21:23:40Z"
   }
  ],
  "closed": [
