@@ -23,9 +23,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9653,
    "tier": "explore",
-   "last_value": 100.793,
-   "last_mark_ts": "2026-10-30T20:42:00Z",
-   "last_bid": 0.94
+   "last_value": 101.8653,
+   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_bid": 0.95
   },
   {
    "pid": "a33acc3d",
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 101.9108,
-   "last_mark_ts": "2026-10-30T20:42:00Z",
-   "last_bid": 0.975
+   "last_value": 102.6425,
+   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_bid": 0.982
   },
   {
    "pid": "5e4d97e7",
@@ -74,7 +74,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 74.7012,
-   "last_mark_ts": "2026-10-30T20:42:00Z",
+   "last_mark_ts": "2026-10-31T13:33:37Z",
    "last_bid": 0.69
   },
   {
@@ -98,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 82.7757,
-   "last_mark_ts": "2026-10-30T20:42:00Z",
-   "last_bid": 0.678
+   "last_value": 93.8857,
+   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_bid": 0.769
   },
   {
    "pid": "6bf91f47",
@@ -123,9 +123,9 @@
    "cat": "Sports",
    "fair_at_entry": 0.9545,
    "tier": "explore",
-   "last_value": 108.4603,
-   "last_mark_ts": "2026-10-30T20:42:00Z",
-   "last_bid": 0.996
+   "last_value": 108.5692,
+   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_bid": 0.997
   },
   {
    "pid": "7d4c2ab7",
@@ -148,9 +148,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9653,
    "tier": "core",
-   "last_bid": 0.93,
-   "last_value": 499.8504,
-   "last_mark_ts": "2026-10-30T20:42:00Z"
+   "last_bid": 0.94,
+   "last_value": 505.2252,
+   "last_mark_ts": "2026-10-31T13:33:38Z"
   },
   {
    "pid": "46374d27",
@@ -173,9 +173,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9553,
    "tier": "core",
-   "last_bid": 0.93,
-   "last_value": 505.0821,
-   "last_mark_ts": "2026-10-30T20:42:01Z"
+   "last_bid": 0.94,
+   "last_value": 510.5131,
+   "last_mark_ts": "2026-10-31T13:33:38Z"
   },
   {
    "pid": "7f943e29",
@@ -223,9 +223,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9207,
    "tier": "explore",
-   "last_bid": 0.72,
-   "last_value": 81.4273,
-   "last_mark_ts": "2026-10-30T20:42:01Z"
+   "last_bid": 0.73,
+   "last_value": 82.5583,
+   "last_mark_ts": "2026-10-31T13:33:38Z"
   },
   {
    "pid": "8a277212",
@@ -250,7 +250,7 @@
    "tier": "explore",
    "last_bid": 0.72,
    "last_value": 82.3305,
-   "last_mark_ts": "2026-10-30T20:42:01Z"
+   "last_mark_ts": "2026-10-31T13:33:38Z"
   }
  ],
  "closed": [
