@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 8184.2986,
+ "cash": 7584.2986,
  "open": [
   {
    "pid": "f1d0649f",
@@ -23,9 +23,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9653,
    "tier": "explore",
-   "last_value": 101.8653,
-   "last_mark_ts": "2026-10-31T13:33:37Z",
-   "last_bid": 0.95
+   "last_value": 100.793,
+   "last_mark_ts": "2026-10-31T15:42:44Z",
+   "last_bid": 0.94
   },
   {
    "pid": "a33acc3d",
@@ -48,9 +48,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.9809,
    "tier": "explore",
-   "last_value": 102.6425,
-   "last_mark_ts": "2026-10-31T13:33:37Z",
-   "last_bid": 0.982
+   "last_value": 102.5379,
+   "last_mark_ts": "2026-10-31T15:42:44Z",
+   "last_bid": 0.981
   },
   {
    "pid": "5e4d97e7",
@@ -74,7 +74,7 @@
    "fair_at_entry": 0.9553,
    "tier": "explore",
    "last_value": 74.7012,
-   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_mark_ts": "2026-10-31T15:42:44Z",
    "last_bid": 0.69
   },
   {
@@ -98,9 +98,9 @@
    "cat": "Elections",
    "fair_at_entry": 0.8525,
    "tier": "explore",
-   "last_value": 93.8857,
-   "last_mark_ts": "2026-10-31T13:33:37Z",
-   "last_bid": 0.769
+   "last_value": 87.6592,
+   "last_mark_ts": "2026-10-31T15:42:45Z",
+   "last_bid": 0.718
   },
   {
    "pid": "6bf91f47",
@@ -124,7 +124,7 @@
    "fair_at_entry": 0.9545,
    "tier": "explore",
    "last_value": 108.5692,
-   "last_mark_ts": "2026-10-31T13:33:37Z",
+   "last_mark_ts": "2026-10-31T15:42:45Z",
    "last_bid": 0.997
   },
   {
@@ -150,7 +150,7 @@
    "tier": "core",
    "last_bid": 0.94,
    "last_value": 505.2252,
-   "last_mark_ts": "2026-10-31T13:33:38Z"
+   "last_mark_ts": "2026-10-31T15:42:45Z"
   },
   {
    "pid": "46374d27",
@@ -175,7 +175,7 @@
    "tier": "core",
    "last_bid": 0.94,
    "last_value": 510.5131,
-   "last_mark_ts": "2026-10-31T13:33:38Z"
+   "last_mark_ts": "2026-10-31T15:42:45Z"
   },
   {
    "pid": "7f943e29",
@@ -225,7 +225,7 @@
    "tier": "explore",
    "last_bid": 0.73,
    "last_value": 82.5583,
-   "last_mark_ts": "2026-10-31T13:33:38Z"
+   "last_mark_ts": "2026-10-31T15:42:45Z"
   },
   {
    "pid": "8a277212",
@@ -250,7 +250,157 @@
    "tier": "explore",
    "last_bid": 0.72,
    "last_value": 82.3305,
-   "last_mark_ts": "2026-10-31T13:33:38Z"
+   "last_mark_ts": "2026-10-31T15:42:45Z"
+  },
+  {
+   "pid": "15b33b4c",
+   "c": "0xc8c5760c26490b0cd0bedcf1c61aa86c5e09c8b2886b84ff4ea2db81d5f29388",
+   "mid": "631018",
+   "q": "Will the Republicans win the Mississippi Senate race in 2026?",
+   "e": "Mississippi Senate Election Winner",
+   "s": "mississippi-senate-election-winner",
+   "side": "buy",
+   "token": "36589074670521348842786325911391532620430247097981345860356484520500173888573",
+   "outcome": "Yes",
+   "qty": 112.3596,
+   "px": 0.89,
+   "tpx": 0.89,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:43Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.89,
+   "cat": "Elections",
+   "fair_at_entry": 0.9305,
+   "tier": "explore",
+   "last_bid": 0.87,
+   "last_value": 97.7529,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
+  },
+  {
+   "pid": "807c72db",
+   "c": "0x8c9b8ad3a64088a06d45e0b296a9a836203bc7f3ef35d134c57abead446a8b72",
+   "mid": "631017",
+   "q": "Will the Democrats win the Mississippi Senate race in 2026?",
+   "e": "Mississippi Senate Election Winner",
+   "s": "mississippi-senate-election-winner",
+   "side": "sell",
+   "token": "109329484956764506378760583725617100193692863947320202695087573398990069238209",
+   "outcome": "No",
+   "qty": 112.3596,
+   "px": 0.11,
+   "tpx": 0.89,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:43Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.89,
+   "cat": "Elections",
+   "fair_at_entry": 0.9305,
+   "tier": "explore",
+   "last_bid": 0.87,
+   "last_value": 97.7529,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
+  },
+  {
+   "pid": "098f9798",
+   "c": "0xd66eadbd64b3e815e31c7994470b44fe15c7ef1146f78937d0cfaa4c04fcfda7",
+   "mid": "629721",
+   "q": "Will the Republicans win the Wisconsin governor race in 2026?",
+   "e": "Wisconsin Governor Election Winner",
+   "s": "wisconsin-governor-winner-2026",
+   "side": "sell",
+   "token": "94997938472772845981621371346408480728260037625129184428077443070579239724265",
+   "outcome": "No",
+   "qty": 117.6471,
+   "px": 0.15,
+   "tpx": 0.85,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:43Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.85,
+   "cat": "Elections",
+   "fair_at_entry": 0.8881,
+   "tier": "explore",
+   "last_bid": 0.84,
+   "last_value": 98.8236,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
+  },
+  {
+   "pid": "0d0028fb",
+   "c": "0x7cd2030d18d2e207e4e6a98824923e60149e02b1227e4a92e0ef4d6dda0e82c5",
+   "mid": "5572739",
+   "q": "Will there be no Hormuz agreement?",
+   "e": "Who wins the Senate pending Hormuz Agreement before the midterms?",
+   "s": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+   "side": "buy",
+   "token": "62240076426776607710384962652381399560527701084611731661749968769534159238583",
+   "outcome": "Yes",
+   "qty": 109.1851,
+   "px": 0.91588,
+   "tpx": 0.91588,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:43Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.915,
+   "cat": "Geopolitics",
+   "fair_at_entry": 0.9374,
+   "tier": "explore",
+   "last_bid": 0.901,
+   "last_value": 98.3758,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
+  },
+  {
+   "pid": "111b6ba3",
+   "c": "0x99d5d58cd6970a17949f18904674d8021f93a00f65816208a77b3e87eb755560",
+   "mid": "5572738",
+   "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+   "e": "Who wins the Senate pending Hormuz Agreement before the midterms?",
+   "s": "who-wins-the-senate-pending-hormuz-agreement-before-the-midterms",
+   "side": "sell",
+   "token": "81313478095568308915211647886364310798063904533081666413501163404156011706842",
+   "outcome": "No",
+   "qty": 105.7082,
+   "px": 0.054,
+   "tpx": 0.946,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:43Z",
+   "end": "2026-11-04T04:59:00Z",
+   "best_at_open": 0.946,
+   "cat": "Geopolitics",
+   "fair_at_entry": 0.9682,
+   "tier": "explore",
+   "last_bid": 0.944,
+   "last_value": 99.7885,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
+  },
+  {
+   "pid": "b6e67e22",
+   "c": "0xd594753a5d2b4d3b9e65cdd06c3cbb0645d70be7626fad94774f45560b150d23",
+   "mid": "2299952",
+   "q": "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?",
+   "e": "Will Anthropic’s valuation hit __ by December 31?",
+   "s": "will-anthropics-valuation-hit-by-december-31",
+   "side": "sell",
+   "token": "40504602999746502052081185409322422451246922051464321593641901006620543564089",
+   "outcome": "No",
+   "qty": 125.0,
+   "px": 0.2,
+   "tpx": 0.8,
+   "fee": 0.0,
+   "cost": 100.0,
+   "opened": "2026-10-31T15:42:44Z",
+   "end": "2027-01-05T04:59:00Z",
+   "best_at_open": 0.8,
+   "cat": "Econ/Finance",
+   "fair_at_entry": 0.8395,
+   "tier": "explore",
+   "last_bid": 0.79,
+   "last_value": 98.75,
+   "last_mark_ts": "2026-10-31T15:42:46Z"
   }
  ],
  "closed": [
@@ -782,6 +932,78 @@
    "proceeds": 0.0,
    "pnl": -100.0,
    "reason": "погашение: проигрыш"
+  },
+  {
+   "ts": "2026-10-31T15:42:43Z",
+   "action": "open",
+   "pid": "15b33b4c",
+   "c": "0xc8c5760c26490b0cd0bedcf1c61aa86c5e09c8b2886b84ff4ea2db81d5f29388",
+   "q": "Will the Republicans win the Mississippi Senate race in 2026?",
+   "side": "buy",
+   "qty": 112.3596,
+   "px": 0.89,
+   "fee": 0.0,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-31T15:42:43Z",
+   "action": "open",
+   "pid": "807c72db",
+   "c": "0x8c9b8ad3a64088a06d45e0b296a9a836203bc7f3ef35d134c57abead446a8b72",
+   "q": "Will the Democrats win the Mississippi Senate race in 2026?",
+   "side": "sell",
+   "qty": 112.3596,
+   "px": 0.11,
+   "fee": 0.0,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-31T15:42:43Z",
+   "action": "open",
+   "pid": "098f9798",
+   "c": "0xd66eadbd64b3e815e31c7994470b44fe15c7ef1146f78937d0cfaa4c04fcfda7",
+   "q": "Will the Republicans win the Wisconsin governor race in 2026?",
+   "side": "sell",
+   "qty": 117.6471,
+   "px": 0.15,
+   "fee": 0.0,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-31T15:42:43Z",
+   "action": "open",
+   "pid": "0d0028fb",
+   "c": "0x7cd2030d18d2e207e4e6a98824923e60149e02b1227e4a92e0ef4d6dda0e82c5",
+   "q": "Will there be no Hormuz agreement?",
+   "side": "buy",
+   "qty": 109.1851,
+   "px": 0.91588,
+   "fee": 0.0,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-31T15:42:43Z",
+   "action": "open",
+   "pid": "111b6ba3",
+   "c": "0x99d5d58cd6970a17949f18904674d8021f93a00f65816208a77b3e87eb755560",
+   "q": "Will there be a Hormuz agreement and the Democrats win the Senate?",
+   "side": "sell",
+   "qty": 105.7082,
+   "px": 0.054,
+   "fee": 0.0,
+   "cost": 100.0
+  },
+  {
+   "ts": "2026-10-31T15:42:44Z",
+   "action": "open",
+   "pid": "b6e67e22",
+   "c": "0xd594753a5d2b4d3b9e65cdd06c3cbb0645d70be7626fad94774f45560b150d23",
+   "q": "Will Anthropic's valuation hit (HIGH) $3.0T by December 31?",
+   "side": "sell",
+   "qty": 125.0,
+   "px": 0.2,
+   "fee": 0.0,
+   "cost": 100.0
   }
  ]
 }
