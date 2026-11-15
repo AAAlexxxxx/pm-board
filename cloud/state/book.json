@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 5458.6201,
+ "cash": 6649.0963,
  "open": [
   {
    "pid": "f9adf0b8",
@@ -20,31 +20,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 802.8169,
-   "last_mark_ts": "2026-10-31T15:42:14Z",
-   "last_bid": 0.57
-  },
-  {
-   "pid": "c4f88a7d",
-   "c": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
-   "mid": "3120760",
-   "q": "NATO x Russia military clash by October 31, 2026?",
-   "e": "NATO x Russia military clash by...?",
-   "s": "nato-x-russia-military-clash-in-2025",
-   "side": "sell",
-   "token": "66797176836865406644675050248194264952001579179703527537658211196864343226792",
-   "outcome": "No",
-   "qty": 1190.4762,
-   "px": 0.16,
-   "tpx": 0.84,
-   "fee": 0.0,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:21:52Z",
-   "end": "2026-11-01T03:59:00Z",
-   "best_at_open": 0.84,
-   "last_value": 1185.7143,
-   "last_mark_ts": "2026-10-31T15:42:14Z",
-   "last_bid": 0.996
+   "last_value": 1126.7606,
+   "last_mark_ts": "2026-11-15T00:12:40Z",
+   "last_bid": 0.8
   },
   {
    "pid": "cd8cda0e",
@@ -64,9 +42,9 @@
    "opened": "2026-09-25T14:31:49Z",
    "end": "2026-11-01T03:59:00Z",
    "best_at_open": 0.83,
-   "last_value": 1142.1506,
-   "last_mark_ts": "2026-10-31T15:42:14Z",
-   "last_bid": 0.955
+   "last_value": 1191.1853,
+   "last_mark_ts": "2026-11-15T00:12:40Z",
+   "last_bid": 0.996
   }
  ],
  "closed": [
@@ -271,6 +249,31 @@
    "closed": "2026-10-14T15:02:46Z",
    "reason": "погашение: проигрыш",
    "pnl": -998.5704
+  },
+  {
+   "pid": "c4f88a7d",
+   "c": "0x2a4fcda5c1598fc8621cf96cabc410f9f23a2d0336c3bff5070a37a663d39e94",
+   "mid": "3120760",
+   "q": "NATO x Russia military clash by October 31, 2026?",
+   "e": "NATO x Russia military clash by...?",
+   "s": "nato-x-russia-military-clash-in-2025",
+   "side": "sell",
+   "token": "66797176836865406644675050248194264952001579179703527537658211196864343226792",
+   "outcome": "No",
+   "qty": 1190.4762,
+   "px": 0.16,
+   "tpx": 0.84,
+   "fee": 0.0,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:21:52Z",
+   "end": "2026-11-01T03:59:00Z",
+   "best_at_open": 0.84,
+   "last_bid": 0.996,
+   "exit_px": 0.0,
+   "proceeds": 1190.4762,
+   "closed": "2026-11-15T00:12:40Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 190.4762
   }
  ],
  "trades": [
@@ -489,6 +492,18 @@
    "proceeds": 0.0,
    "pnl": -998.5704,
    "reason": "погашение: проигрыш"
+  },
+  {
+   "ts": "2026-11-15T00:12:40Z",
+   "action": "close",
+   "pid": "c4f88a7d",
+   "q": "NATO x Russia military clash by October 31, 2026?",
+   "side": "sell",
+   "qty": 1190.4762,
+   "exit_px": 0.0,
+   "proceeds": 1190.4762,
+   "pnl": 190.4762,
+   "reason": "погашение: выигрыш"
   }
  ]
 }
