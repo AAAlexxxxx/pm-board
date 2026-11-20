@@ -1,6 +1,6 @@
 {
  "start_cash": 10000.0,
- "cash": 6649.0963,
+ "cash": 7845.0655,
  "open": [
   {
    "pid": "f9adf0b8",
@@ -20,31 +20,9 @@
    "opened": "2026-09-25T14:21:33Z",
    "end": "2026-10-27T23:59:00Z",
    "best_at_open": 0.71,
-   "last_value": 1126.7606,
-   "last_mark_ts": "2026-11-15T00:12:40Z",
-   "last_bid": 0.8
-  },
-  {
-   "pid": "cd8cda0e",
-   "c": "0x2a5105d0670a46326c7f33c0352d68deff656d298d9183ba0cf800426b5b6a87",
-   "mid": "3900266",
-   "q": "US-Canada diplomatic agreement to lower tariffs by October 31?",
-   "e": "US-Canada diplomatic agreement to lower tariffs by...?",
-   "s": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
-   "side": "sell",
-   "token": "65649520046452759158800009579029640919660500322571062465319367177825126496484",
-   "outcome": "No",
-   "qty": 1195.9692,
-   "px": 0.16949,
-   "tpx": 0.83051,
-   "fee": 6.7337,
-   "cost": 1000.0,
-   "opened": "2026-09-25T14:31:49Z",
-   "end": "2026-11-01T03:59:00Z",
-   "best_at_open": 0.83,
-   "last_value": 1191.1853,
-   "last_mark_ts": "2026-11-15T00:12:40Z",
-   "last_bid": 0.996
+   "last_value": 1129.5775,
+   "last_mark_ts": "2026-11-20T22:36:30Z",
+   "last_bid": 0.802
   }
  ],
  "closed": [
@@ -274,6 +252,31 @@
    "closed": "2026-11-15T00:12:40Z",
    "reason": "погашение: выигрыш",
    "pnl": 190.4762
+  },
+  {
+   "pid": "cd8cda0e",
+   "c": "0x2a5105d0670a46326c7f33c0352d68deff656d298d9183ba0cf800426b5b6a87",
+   "mid": "3900266",
+   "q": "US-Canada diplomatic agreement to lower tariffs by October 31?",
+   "e": "US-Canada diplomatic agreement to lower tariffs by...?",
+   "s": "us-canada-diplomatic-agreement-to-lower-tariffs-by-august-31",
+   "side": "sell",
+   "token": "65649520046452759158800009579029640919660500322571062465319367177825126496484",
+   "outcome": "No",
+   "qty": 1195.9692,
+   "px": 0.16949,
+   "tpx": 0.83051,
+   "fee": 6.7337,
+   "cost": 1000.0,
+   "opened": "2026-09-25T14:31:49Z",
+   "end": "2026-11-01T03:59:00Z",
+   "best_at_open": 0.83,
+   "last_bid": 0.996,
+   "exit_px": 0.0,
+   "proceeds": 1195.9692,
+   "closed": "2026-11-20T22:36:30Z",
+   "reason": "погашение: выигрыш",
+   "pnl": 195.9692
   }
  ],
  "trades": [
@@ -503,6 +506,18 @@
    "exit_px": 0.0,
    "proceeds": 1190.4762,
    "pnl": 190.4762,
+   "reason": "погашение: выигрыш"
+  },
+  {
+   "ts": "2026-11-20T22:36:30Z",
+   "action": "close",
+   "pid": "cd8cda0e",
+   "q": "US-Canada diplomatic agreement to lower tariffs by October 31?",
+   "side": "sell",
+   "qty": 1195.9692,
+   "exit_px": 0.0,
+   "proceeds": 1195.9692,
+   "pnl": 195.9692,
    "reason": "погашение: выигрыш"
   }
  ]
